@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 09:44:55",
+  "updated_at": "2026-10-08 03:43:31",
   "videos": [
     {
       "channel_name": "OniGiri",
@@ -16,6 +16,24 @@
         {
           "revision": 1,
           "updated_at": "2026-10-07 09:44:54"
+        }
+      ]
+    },
+    {
+      "channel_name": "Mori Calliope Ch. hololive",
+      "video_title": "【CHADCast】EPISODE 1 - are babies made of microplastics?  #calliolive #chadcast",
+      "url": "https://www.youtube.com/live/HZOSaPAIWYc?si=zsVbWk_tziwmtri2",
+      "total_chunks": 89,
+      "created_at": "2026-10-08 03:43:27",
+      "updated_at": "2026-10-08 03:43:28",
+      "revision": 1,
+      "content_sha": "1693f240daa0a863273b0f387d56784ece2e2966",
+      "path": "toeic/Mori_Calliope_Ch_hololive/app_full_【CHADCast】EPISODE_1_-_are_babies_made_of_microplas.json",
+      "data_url": "https://raw.githubusercontent.com/tomboytheledgenz-lab/toeic-data/main/toeic/Mori_Calliope_Ch_hololive/app_full_%E3%80%90CHADCast%E3%80%91EPISODE_1_-_are_babies_made_of_microplas.json",
+      "update_history": [
+        {
+          "revision": 1,
+          "updated_at": "2026-10-08 03:43:28"
         }
       ]
     }
