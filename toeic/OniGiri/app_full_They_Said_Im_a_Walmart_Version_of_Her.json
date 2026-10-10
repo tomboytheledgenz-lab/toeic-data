@@ -9,585 +9,1386 @@
       "chunk_index": 1,
       "start_sec": 0.0,
       "end_sec": 71.1,
-      "script": "When you see a pretty woman, you just want to smell her, you know? Mm-hmm. Not in a weird way. Not in a weird way. No, no, no. We're going up and like getting like right up by their neck and going, no. But like, just for enough, where you're going. She understands me, guys. She understands me. Hi, Adarlings. This is Nursa Ravencroft of Hullo Life English. And today I am here with the one and only incomparable, only Geary. And I'm going to be forcing her to cook a childhood meal of mine. I'm excited. I'm just hoping that you like it. I'm, because you know, you're the one who has to eat it. So do you, do you know what they call me? Like ever since your, ever since your debut, I heard this non-stop in my own chat. Are you like aware or am I like a, I am, but keep going. They call you Walmart, Nursa. Why, how did you know that? I see it. And I need to say that is not a very nice thing to call only Geary. Oh, you knew. Oh, you knew this whole time. I was like, oh, what are they doing that? They can't do that to her. She's too good. I was going to surprise her and get like a laugh and go like, oh, no, she knew this whole time, guys. I'm sorry.",
+      "script": "Speaker 2: When you see a pretty woman, you just want to smell her, you know? Mm-hmm. Not in a weird way, not in a weird way, not where you're going up and like getting like right up by their neck and going, but like, just enough where you're going. She understands me, guys. She understands. Hiya, darlings. This is Nursa Ravencroft of Hollow Life English. And today I am here with the one and only incomparable, only Geary. And I'm going to be forcing her to cook a childhood meal of mine. I'm excited.\nSpeaker 1: I'm just hoping that you like it. You're the one who has to eat it. Do you know what they call me? Ever since you're ever since your debut, I heard this non-stop in my own chat. Are you aware? I am, but keep going. They call you Walmart, Narissa.\nSpeaker 2: Wait, how did you know that? I see it and I need to say that is not a very nice thing to call Onigiri. Oh, you knew this all time. I was like, oh, what are they doing? They can't do that to her. She's too good. I was gonna surprise her and get like a laugh and go like, oh no, she knew this whole time, guys. I'm sorry. Before we move further on, what is the first step we gotta do? Our first goal is going to be cutting up about half of a large onion. It looks like you've already got it fully prepared, which is perfect. I don't use measurements.",
       "questions": [
         {
           "id": "Q1-1",
-          "question": "What are the speakers planning to do today?",
-          "question_ja": "話し手たちは今日何をする予定ですか？",
-          "option_a": "Prepare a nostalgic dish",
-          "option_a_ja": "懐かしい料理を作る",
-          "option_b": "Shop for groceries online",
-          "option_b_ja": "オンラインで食料品を買う",
-          "option_c": "Watch a debut broadcast together",
-          "option_c_ja": "一緒にデビュー配信を見る",
-          "option_d": "Review viewer comments on a blog",
-          "option_d_ja": "ブログの視聴者コメントをレビューする",
+          "question": "What is the main activity the speakers are preparing for?",
+          "question_ja": "話者が準備している主な活動は何ですか？",
+          "option_a": "Cooking a childhood meal",
+          "option_a_ja": "童時代の料理を作る",
+          "option_b": "Teaching English lessons",
+          "option_b_ja": "英語レッスンを教える",
+          "option_c": "Discussing online nicknames",
+          "option_c_ja": "オンラインでのニックネームについて話す",
+          "option_d": "Planning a surprise party",
+          "option_d_ja": "サプライズパーティーを計画する",
           "answer": "A",
-          "explanation": "話し手が「And I'm going to be forcing her to cook a childhood meal of mine.（彼女に私の子供の頃の料理を作ってもらうつもりです）」と述べているため、Aが正解です。"
+          "explanation": "スクリプトではSpeaker 2が『I'm going to be forcing her to cook a childhood meal of mine』と明確に述べており、これは主な活動を示しています。他の選択肢はスクリプトに直接的な根拠がありません。"
         },
         {
           "id": "Q1-2",
-          "question": "What have viewers been calling one of the speakers?",
-          "question_ja": "視聴者は話し手の一人を何と呼んでいますか？",
-          "option_a": "Adarlings",
-          "option_a_ja": "エイダーリングス",
-          "option_b": "Walmart Nursa",
-          "option_b_ja": "ウォルマート・ナーサ",
-          "option_c": "The Incomparable",
-          "option_c_ja": "インコンパラブル",
-          "option_d": "Chef Geary",
-          "option_d_ja": "シェフ・ギアリー",
-          "answer": "B",
-          "explanation": "会話の中で「They call you Walmart, Nursa.（あなたのことをウォルマート・ナーサって呼んでるよ）」と言及されているため、Bが正解です。"
+          "question": "What nickname does Speaker 1 reveal about Onigiri?",
+          "question_ja": "Speaker 1がOnigiriについて明らかにしたニックネームはどれですか？",
+          "option_a": "Walmart",
+          "option_a_ja": "ウォルマート",
+          "option_b": "Narissa",
+          "option_b_ja": "ナリッサ",
+          "option_c": "Geary",
+          "option_c_ja": "ジーリー",
+          "option_d": "Hollow Life",
+          "option_d_ja": "ホロウライフ",
+          "answer": "A",
+          "explanation": "Speaker 1が『They call you Walmart, Narissa』と述べており、これはOnigiriに対するニックネームです。他の選択肢はスクリプトに登場しますが、ニックネームとしての根拠がありません。"
         },
         {
           "id": "Q1-3",
-          "question": "Why is the first speaker disappointed at the end?",
-          "question_ja": "最初の話し手が最後に残念がっているのはなぜですか？",
-          "option_a": "Her guest did not enjoy the food.",
-          "option_a_ja": "ゲストが料理を気に入らなかったから。",
-          "option_b": "The streaming broadcast was interrupted.",
-          "option_b_ja": "配信が中断されたから。",
-          "option_c": "Her attempt to surprise her guest failed.",
-          "option_c_ja": "ゲストを驚かせようとした試みが失敗したから。",
-          "option_d": "Her guest arrived later than expected.",
-          "option_d_ja": "ゲストが予定より遅れて到着したから。",
-          "answer": "C",
-          "explanation": "話し手は「I was going to surprise her and get like a laugh... she knew this whole time（驚かせて笑いを取ろうとしたのに、ずっと知っていた）」と述べており、驚かせる計画が失敗したため、Cが正解です。"
+          "question": "What is the first step in the cooking process mentioned?",
+          "question_ja": "調理の最初のステップとして言及されているのはどれですか？",
+          "option_a": "Cutting half of a large onion",
+          "option_a_ja": "大きな玉ねぎの半分を切る",
+          "option_b": "Measuring ingredients precisely",
+          "option_b_ja": "材料を正確に計る",
+          "option_c": "Preparing a surprise for the audience",
+          "option_c_ja": "観客のためにサプライズを準備する",
+          "option_d": "Discussing the nickname controversy",
+          "option_d_ja": "ニックネームの議論をする",
+          "answer": "A",
+          "explanation": "Speaker 2が『Our first goal is going to be cutting up about half of a large onion』と明確に述べており、これは最初のステップです。選択肢Bはスクリプトで否定されている（『I don't use measurements』）ため誤答です。"
         }
-      ]
+      ],
+      "text": "Speaker 2: When you see a pretty woman, you just want to smell her, you know? Mm-hmm. Not in a weird way, not in a weird way, not where you're going up and like getting like right up by their neck and going, but like, just enough where you're going. She understands me, guys. She understands. Hiya, darlings. This is Nursa Ravencroft of Hollow Life English. And today I am here with the one and only incomparable, only Geary. And I'm going to be forcing her to cook a childhood meal of mine. I'm excited.\nSpeaker 1: I'm just hoping that you like it. You're the one who has to eat it. Do you know what they call me? Ever since you're ever since your debut, I heard this non-stop in my own chat. Are you aware? I am, but keep going. They call you Walmart, Narissa.\nSpeaker 2: Wait, how did you know that? I see it and I need to say that is not a very nice thing to call Onigiri. Oh, you knew this all time. I was like, oh, what are they doing? They can't do that to her. She's too good. I was gonna surprise her and get like a laugh and go like, oh no, she knew this whole time, guys. I'm sorry. Before we move further on, what is the first step we gotta do? Our first goal is going to be cutting up about half of a large onion. It looks like you've already got it fully prepared, which is perfect. I don't use measurements.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 1,
+          "similarity": 0.18,
+          "old_chars": 1155,
+          "new_chars": 1289,
+          "issues": [
+            "既存スクリプトとの一致率が低い"
+          ]
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q1-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q1-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option B 'Narissa' is also mentioned in the script, which could cause confusion. While it's technically correct that 'Narissa' is part of the nickname, 'Walmart' is the primary identifier."
+            ],
+            "recommended_fix": "Rephrase Option B to be more clearly incorrect, e.g., 'Narissa (a formal name)'"
+          },
+          {
+            "id": "Q1-3",
+            "score": 98,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          }
+        ],
+        "summary": "監査結果: 全体的に問題の質は高い。Q1-2の選択肢Bの表現をより明確に誤りであることを示すように修正することで、さらに改善される。"
+      }
     },
     {
       "chunk_index": 2,
       "start_sec": 71.1,
       "end_sec": 137.7,
-      "script": "Before we move further on, what is the first step we got to do? Our first goal is going to be cutting up about half of a large onion. It looks like you've already got it fully prepared, which is perfect. I don't use measurements. I'll try today, but otherwise I just cook with feeling. Yeah, you can tell me to cook with feeling like two dashes of this, two spritzes of that. I'm Chinese, so we never cook with any mushroom. Every time I ask my mom for an ingredient, she's like, I don't know. You figure that out for yourself. Like, you know, like she's like, just watch me and you decide. And I'm just like, that's not helpful, mom, but thank you. We're just going to be chopping up that onion and then we're going to get the ground beef and we're going to cook them together. Well, how big should a dice is? I usually make them pretty pretty pretty fine, but that's just my preference. Your preference is also fine. Can you make this for yourself very often anymore or just more of just like a thing that I use for your parents to make? This is something my mom would make very often. I've actually never made it before. Oh, so I had to message her and be like, hey, send me a recipe. Please. Wait, so I have the, I have the secret sauce. I have the secret recipe.",
+      "script": "Speaker 2: I was gonna surprise her and get like a laugh and go like, oh no, she knew this whole time, guys. I'm sorry. Before we move further on, what is the first step we gotta do? Our first goal is going to be cutting up about half of a large onion. It looks like you've already got it fully prepared, which is perfect. I don't use measurements.\nSpeaker 1: We'll try today, but otherwise I just cook with feeling. You can tell me to cook with feeling like two dashes of this, two spritzes of that. I'm Chinese, so we never cook with any mushroom. Yeah, every time I ask my mom for an ingredient, she's like, I don't know. You figure that out for yourself. Like, you know, like she's like, just watch me and you decide and I'm just like, that's not helpful mom, but thank you. We're just going to be chopping up that onion and then we're going to get the ground beef and we're going to cook them together.\nSpeaker 2: Well, how big are the dices? I usually make them pretty pretty pretty tiny, but that's just my preference. Your preference is also fine. Do you make this for yourself very often anymore? Or just more of just like a thing that I prefer for your parents to make? No, this is something my mom would make very often. I've actually never made it before. Oh. So I had a message her and be like, hey, send me a recipe. Please. Well, you know, I wish it was a secret, but despite me asking her to send me our family recipe, she sent me a Google, a Google link.",
       "questions": [
         {
           "id": "Q2-1",
-          "question": "What is the speakers' first task?",
-          "question_ja": "話し手たちの最初の作業は何ですか。",
-          "option_a": "Chopping an onion",
-          "option_a_ja": "玉ねぎを刻むこと",
-          "option_b": "Measuring spices",
-          "option_b_ja": "スパイスを計量すること",
-          "option_c": "Frying ground beef",
-          "option_c_ja": "牛ひき肉を炒めること",
-          "option_d": "Cleaning the cooking area",
-          "option_d_ja": "調理スペースを掃除すること",
+          "question": "What is the first step the speakers mention in their cooking process?",
+          "question_ja": "この会話の中で最初に述べられた料理の手順はどれですか？",
+          "option_a": "Cutting up half of a large onion",
+          "option_a_ja": "大型の玉ねぎを半分に切る",
+          "option_b": "Using precise measurements for the onion",
+          "option_b_ja": "玉ねぎに正確な測定を用いる",
+          "option_c": "Cooking the ground beef first",
+          "option_c_ja": "合い挽き肉をまず調理する",
+          "option_d": "Asking the mother for recipe details",
+          "option_d_ja": "母親にレシピの詳細を尋ねる",
           "answer": "A",
-          "explanation": "冒頭で「Our first goal is going to be cutting up about half of a large onion.（私たちの最初の目標は、大きな玉ねぎの約半分を刻むことです）」と述べているため、(A)が正解です。"
+          "explanation": "スクリプトではSpeaker 2が「Our first goal is going to be cutting up about half of a large onion」と明確に述べており、これは最初の手順として提示されている。他の選択肢はスクリプトに直接的な根拠がない。"
         },
         {
           "id": "Q2-2",
-          "question": "How did the speaker obtain the recipe?",
-          "question_ja": "話し手はどのようにしてレシピを入手しましたか。",
-          "option_a": "By watching an online video",
-          "option_a_ja": "オンライン動画を視聴して",
-          "option_b": "By messaging her mother",
-          "option_b_ja": "母親にメッセージを送って",
-          "option_c": "By consulting a cookbook",
-          "option_c_ja": "料理本を調べて",
-          "option_d": "By inventing it herself",
-          "option_d_ja": "自分で考案して",
-          "answer": "B",
-          "explanation": "終盤で「I had to message her and be like, hey, send me a recipe. Please.（彼女［母親］にメッセージを送って『レシピを送って』と頼まなければならなかった）」と述べているため、(B)が正解です。"
+          "question": "How does Speaker 1 describe their approach to cooking?",
+          "question_ja": "Speaker 1は料理に対するアプローチをどのように説明していますか？",
+          "option_a": "They rely on precise measurements and recipes",
+          "option_a_ja": "正確な測定とレシピに依存する",
+          "option_b": "They avoid using any meat in their cooking",
+          "option_b_ja": "料理に肉を使わない",
+          "option_c": "They cook based on intuition and feeling",
+          "option_c_ja": "直感と感覚に基づいて調理する",
+          "option_d": "They always follow their mother's instructions",
+          "option_d_ja": "常に母親の指示に従う",
+          "answer": "C",
+          "explanation": "Speaker 1は「I just cook with feeling」と述べており、これは直感と感覚に基づいて調理するというアプローチを示している。他の選択肢はスクリプトに直接的な根拠がない。"
         },
         {
           "id": "Q2-3",
-          "question": "What is implied about the dish being made?",
-          "question_ja": "作られている料理について何が示唆されていますか。",
-          "option_a": "It takes several hours to cook.",
-          "option_a_ja": "調理に数時間かかる。",
-          "option_b": "It is served in fine dining restaurants.",
-          "option_b_ja": "高級レストランで提供されている。",
-          "option_c": "The speaker has never prepared it before.",
-          "option_c_ja": "話し手は以前にそれを作ったことがない。",
-          "option_d": "It requires very precise measurements.",
-          "option_d_ja": "非常に正確な計量が必要である。",
-          "answer": "C",
-          "explanation": "話し手は「This is something my mom would make very often. I've actually never made it before.（これは母がよく作ってくれた料理です。実は自分では一度も作ったことがありません）」と言っているため、(C)が正解です。"
+          "question": "Who is the person that makes the dish frequently according to the conversation?",
+          "question_ja": "この会話によると、この料理を頻繁に作っている人物は誰ですか？",
+          "option_a": "Speaker 1's mother",
+          "option_a_ja": "Speaker 1の母親",
+          "option_b": "Speaker 2's mother",
+          "option_b_ja": "Speaker 2の母親",
+          "option_c": "The person they tried to surprise",
+          "option_c_ja": "驚かせようとした人物",
+          "option_d": "The person who sent the Google link",
+          "option_d_ja": "Googleリンクを送った人物",
+          "answer": "B",
+          "explanation": "Speaker 2は「this is something my mom would make very often」と明確に述べており、これはSpeaker 2の母親がこの料理を頻繁に作っていることを示している。他の選択肢はスクリプトに直接的な根拠がない。"
         }
-      ]
+      ],
+      "text": "Speaker 2: I was gonna surprise her and get like a laugh and go like, oh no, she knew this whole time, guys. I'm sorry. Before we move further on, what is the first step we gotta do? Our first goal is going to be cutting up about half of a large onion. It looks like you've already got it fully prepared, which is perfect. I don't use measurements.\nSpeaker 1: We'll try today, but otherwise I just cook with feeling. You can tell me to cook with feeling like two dashes of this, two spritzes of that. I'm Chinese, so we never cook with any mushroom. Yeah, every time I ask my mom for an ingredient, she's like, I don't know. You figure that out for yourself. Like, you know, like she's like, just watch me and you decide and I'm just like, that's not helpful mom, but thank you. We're just going to be chopping up that onion and then we're going to get the ground beef and we're going to cook them together.\nSpeaker 2: Well, how big are the dices? I usually make them pretty pretty pretty tiny, but that's just my preference. Your preference is also fine. Do you make this for yourself very often anymore? Or just more of just like a thing that I prefer for your parents to make? No, this is something my mom would make very often. I've actually never made it before. Oh. So I had a message her and be like, hey, send me a recipe. Please. Well, you know, I wish it was a secret, but despite me asking her to send me our family recipe, she sent me a Google, a Google link.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 2,
+          "similarity": 0.807,
+          "old_chars": 1267,
+          "new_chars": 1438,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q2-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q2-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option B is misleading. While Speaker 1 mentions not using mushrooms, it doesn't mean they avoid *any* meat. This option is too absolute."
+            ],
+            "recommended_fix": "Option B: Change to 'They sometimes avoid certain ingredients like mushrooms' or similar to reflect the nuance."
+          },
+          {
+            "id": "Q2-3",
+            "score": 90,
+            "pass": true,
+            "issues": [
+              "While the answer is technically correct, the wording is slightly awkward. Option C is a bit of a red herring, but it's closer than it should be. The question could be more direct."
+            ],
+            "recommended_fix": "Rephrase Option C to be more obviously incorrect. For example, 'A person who was surprised by the cooking demonstration.'"
+          }
+        ],
+        "summary": "全体的に問題の質は高い。Q2-2とQ2-3は、選択肢の表現をより洗練させることで、さらに難易度と妥当性を高めることができる。"
+      }
     },
     {
       "chunk_index": 3,
       "start_sec": 137.7,
       "end_sec": 220.0,
-      "script": "Well, you know, I wish it was a secret, but despite me asking her to send me, our family recipe, she sent me a Google, a Google link. Oh, no. And I was like, mom, I haven't, I haven't earned mama nervousus trust yet. Eventually, don't worry. She loves everyone very, very easily. You know, my gen mate, Bijou. She's message me like five times already and she's like, when will she come to our house? I need to meet her. I need to meet her. She's just so cute. Oh, that's so sweet. Oh, I love that. I forgot to mention, we have to chop up garlic too. Oh, garlic, okay. Problematic opinion over here. I just get by the pre-mince. I can't be bothered to chop up garlic. But the, but the aromatics are not as strong and they usually have like added oils in there, you know, and it dilutes the garlic flavor. I add a ridiculous amount of it anyway that it's already probably a mistake. You call yourself a chef. Where is your pride woman? Where is that cooking pride? If I was cooking for other people, then absolutely, you're right. I would go out and I would get my ass fresh garlic. Okay, I know, I know I'm giving you shit, but like I'm just used to do that too. I just just go to Costco and I'm just like, ooh, a big jar of garlic for like four to four ninety nine. Don't mind if I do. Hey, actually!",
+      "script": "Speaker 2: Well, you know, I wish it was a secret, but despite me asking her to send me our family recipe, she sent me a Google, a Google link.\nSpeaker 1: And I was like, mom. I haven't, I haven't earned Mama Narissa's trust yet. Eventually, don't worry. She, she loves everyone very, very easily. You know my gen mate, Bijou. She's message me like five times already and she's like, when will she come to our house?\nSpeaker 2: I need to meet her. I need to meet her. She's just so cute. Oh, that's so sweet. Oh, I love that. Oh, I forgot to mention we have to chop up garlic too. Oh, garlic. Okay. Problematic opinion over here. I just get by the pre-mince. I can't be bothered to chop up garlic. But the aromatics are not as strong and they usually have like added oils in there, you know, and it dilutes the garlic flavor. I add a ridiculous amount of it anyway that it's already probably a mistake. You call yourself a chef. Where is your pride woman? Where is that cooking pride? If I was cooking for other people, then absolutely, you're right. I would go out and I would get my ass fresh garlic. Okay, I know I'm giving you shit, but like, I'm just gonna do that too. I just just go to Costco. And I'm just like, ooh, a big jar of garlic for like four to four ninety nine. Don't mind if I do it. If you wanted, we could get the onions reducing now and chop up the garlic. Cause usually, I don't know how you like to do it, but I like to add the garlic in a little bit later.",
       "questions": [
         {
           "id": "Q3-1",
-          "question": "What does the first speaker say about her mother?",
-          "question_ja": "最初の話者は自身の母親について何と言っていますか？",
-          "option_a": "She sent a link from the Internet instead of a family recipe.",
-          "option_a_ja": "家庭の秘伝レシピの代わりにインターネットのリンクを送ってきた。",
-          "option_b": "She refused to allow guests into her house.",
-          "option_b_ja": "客を家に招くことを拒否した。",
-          "option_c": "She recommended buying garlic in bulk.",
-          "option_c_ja": "ニンニクを大量買いすることを勧めてきた。",
-          "option_d": "She taught her how to chop garlic properly.",
-          "option_d_ja": "ニンニクの正しい刻み方を教えてくれた。",
+          "question": "What is the main reason Speaker 2 prefers pre-minced garlic over freshly chopped garlic?",
+          "question_ja": "スピーカー2が新鮮に刻まれたニンニクよりもプレミンチのニンニクを好む主な理由は何か？",
+          "option_a": "The added oils in pre-minced garlic enhance the flavor",
+          "option_a_ja": "プレミンチのニンニクに含まれる添加油が風味を引き立てる",
+          "option_b": "It is more convenient for last-minute cooking",
+          "option_b_ja": "最後の最後に調理するのに便利",
+          "option_c": "It is significantly cheaper than fresh garlic",
+          "option_c_ja": "新鮮なニンニクよりもはるかに安い",
+          "option_d": "The aromatics are stronger in pre-minced garlic",
+          "option_d_ja": "プレミンチのニンニクの香りがより強い",
           "answer": "A",
-          "explanation": "冒頭で話者は「despite me asking her to send me, our family recipe, she sent me a Google... link（家庭のレシピを送ってと頼んだのに、Googleのリンクを送ってきた）」と話しています。したがって、Aが正解です。"
+          "explanation": "Speaker 2 explicitly states that pre-minced garlic 'usually have like added oils in there, you know, and it dilutes the garlic flavor' but then admits they still use a large amount anyway. This indicates the added oils are a factor in their preference, even though they acknowledge it's not ideal."
         },
         {
           "id": "Q3-2",
-          "question": "Why does one of the speakers prefer pre-minced garlic?",
-          "question_ja": "話者の一方が市販のみじん切りニンニクを好むのはなぜですか？",
-          "option_a": "It has a much stronger aroma.",
-          "option_a_ja": "香りがはるかに強いから。",
-          "option_b": "She finds cutting garlic to be too troublesome.",
-          "option_b_ja": "ニンニクを刻むのが面倒だと感じているから。",
-          "option_c": "It is required for the specific recipe.",
-          "option_c_ja": "その特定のレシピで指定されているから。",
-          "option_d": "Fresh garlic is unavailable at local stores.",
-          "option_d_ja": "地元の店で新鮮なニンニクが手に入らないから。",
-          "answer": "B",
-          "explanation": "話者の一人が「I just get by the pre-mince. I can't be bothered to chop up garlic.（市販のみじん切りで済ませている。ニンニクをわざわざ刻むのが面倒だから）」と述べているため、B（刻むのが面倒）が正解です。"
+          "question": "What is the relationship between Speaker 1 and Speaker 2?",
+          "question_ja": "スピーカー1とスピーカー2の関係は何か？",
+          "option_a": "They are siblings",
+          "option_a_ja": "彼らは兄弟姉妹",
+          "option_b": "They are coworkers",
+          "option_b_ja": "彼らは同僚",
+          "option_c": "They are mother and daughter",
+          "option_c_ja": "彼らは母と娘",
+          "option_d": "They are friends",
+          "option_d_ja": "彼らは友人",
+          "answer": "C",
+          "explanation": "Speaker 1 refers to Speaker 2 as 'mom' and mentions 'Mama Narissa,' indicating a mother-daughter relationship. The casual tone and the discussion about family recipes further support this familial connection."
         },
         {
           "id": "Q3-3",
-          "question": "What drawback of pre-minced garlic is mentioned?",
-          "question_ja": "市販のみじん切りニンニクの欠点として何が挙げられていますか？",
-          "option_a": "It spoils very quickly after opening.",
-          "option_a_ja": "開封後すぐに傷んでしまうこと。",
-          "option_b": "It is much more expensive than fresh cloves.",
-          "option_b_ja": "生のニンニクよりもはるかに高価なこと。",
-          "option_c": "Added oils weaken its natural taste.",
-          "option_c_ja": "添加された油によって本来の風味が薄まること。",
-          "option_d": "It cannot be purchased in large containers.",
-          "option_d_ja": "大容量の容器で購入できないこと。",
-          "answer": "C",
-          "explanation": "もう一方の話者が「the aromatics are not as strong and they usually have like added oils in there, you know, and it dilutes the garlic flavor（香りがそこまで強くないし、油が加えられていてニンニクの風味が薄まる）」と指摘しているため、Cが正解です。"
+          "question": "What action is Speaker 2 considering to obtain fresh garlic?",
+          "question_ja": "スピーカー2が新鮮なニンニクを手に入れるために考慮している行動は何か？",
+          "option_a": "Buying a large jar from Costco",
+          "option_a_ja": "コストコで大きな瓶を購入",
+          "option_b": "Asking Bijou to bring some",
+          "option_b_ja": "バイジュに持って来てもらう",
+          "option_c": "Chopping garlic themselves",
+          "option_c_ja": "自分でニンニクを刻む",
+          "option_d": "Using pre-minced garlic from the store",
+          "option_d_ja": "店で売っているプレミンチのニンニクを使う",
+          "answer": "A",
+          "explanation": "Speaker 2 explicitly states they will 'go to Costco' and mentions buying 'a big jar of garlic for like four to four ninety nine.' This directly indicates their plan to purchase fresh garlic from Costco in a large quantity."
         }
-      ]
+      ],
+      "text": "Speaker 2: Well, you know, I wish it was a secret, but despite me asking her to send me our family recipe, she sent me a Google, a Google link.\nSpeaker 1: And I was like, mom. I haven't, I haven't earned Mama Narissa's trust yet. Eventually, don't worry. She, she loves everyone very, very easily. You know my gen mate, Bijou. She's message me like five times already and she's like, when will she come to our house?\nSpeaker 2: I need to meet her. I need to meet her. She's just so cute. Oh, that's so sweet. Oh, I love that. Oh, I forgot to mention we have to chop up garlic too. Oh, garlic. Okay. Problematic opinion over here. I just get by the pre-mince. I can't be bothered to chop up garlic. But the aromatics are not as strong and they usually have like added oils in there, you know, and it dilutes the garlic flavor. I add a ridiculous amount of it anyway that it's already probably a mistake. You call yourself a chef. Where is your pride woman? Where is that cooking pride? If I was cooking for other people, then absolutely, you're right. I would go out and I would get my ass fresh garlic. Okay, I know I'm giving you shit, but like, I'm just gonna do that too. I just just go to Costco. And I'm just like, ooh, a big jar of garlic for like four to four ninety nine. Don't mind if I do it. If you wanted, we could get the onions reducing now and chop up the garlic. Cause usually, I don't know how you like to do it, but I like to add the garlic in a little bit later.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 3,
+          "similarity": 0.163,
+          "old_chars": 1300,
+          "new_chars": 1448,
+          "issues": [
+            "既存スクリプトとの一致率が低い"
+          ]
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q3-1",
+            "score": 98,
+            "pass": true,
+            "issues": [
+              "Explanation could be slightly more concise. While accurate, it includes unnecessary detail about the speaker's excessive garlic use."
+            ],
+            "recommended_fix": "Explanation: 'Speaker 2 states that pre-minced garlic 'usually have like added oils in there, you know, and it dilutes the garlic flavor,' indicating this is a reason for their preference.'"
+          },
+          {
+            "id": "Q3-2",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q3-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option C is a bit too close to the correct answer. While Speaker 2 *does* consider chopping garlic, the primary action they're considering is buying from Costco. This creates unnecessary ambiguity."
+            ],
+            "recommended_fix": "Option C: 'Briefly considering chopping garlic themselves' or 'Mentioning the possibility of chopping garlic.'"
+          }
+        ],
+        "summary": "全体的に問題の質は高い。問題文、選択肢、解説は適切であり、TOEIC Part 3/4の形式に合致している。Q3-1の解説とQ3-3の選択肢に若干の改善点がある。"
+      }
     },
     {
       "chunk_index": 4,
       "start_sec": 220.0,
       "end_sec": 306.4,
-      "script": "If you wanted, we could get the onions reducing now and chop up the garlic because usually, I don't know how you like to do it, but I like to add the garlic in a little bit later. We can do it any way that you want. This is your recipe. I am but your humble slave. All right, let's do the onions first. We'll do that. We'll just cook them low and slow. Sound good? So that way you don't have to, you can focus on chopping and we'll have to pay too close of attention. I am a master at multitasking, aren't I chat? I can multitask like a fiend. Do you have like a go-to midwestern dish? If you were supposed to introduce someone to like, you're making it right now. This is it. Oh, okay. I'm excited now. Because I've heard of things about like, in broja salad. Okay. I love in broja. Don't, don't wait. No, you can't. You can't have me on your stream here in the drag, in broja. In front of my face. Have you ever had pickle rollups where it's like a pickle with like cream cheese and then like rolled into a piece of ham? Hold on. Wait. That de-morphed into something so grotesque. Okay. When you were like, fruit roll up and pickle, I was with you. I never tried it, but I have seen it on TikTok. And then you just added more words and added more ingredients and I started to like, real back step by step. Hold on. What the f***? She's saying.",
+      "script": "Speaker 2: If I was cooking for other people, then absolutely, you're right. I would go out and I would get my ass fresh garlic. Okay, I know I'm giving you shit, but like, I'm just gonna do that too. I just just go to Costco. And I'm just like, ooh, a big jar of garlic for like four to four ninety nine. Don't mind if I do it. If you wanted, we could get the onions reducing now and chop up the garlic. Cause usually, I don't know how you like to do it, but I like to add the garlic in a little bit later.\nSpeaker 1: We can do it any way that you want. This is this is your recipe. I am but your humble slave. All right. Let's do the onions first. We'll do that. We'll just cook them low and slow. Sound good? So that way you don't have to you can focus on chopping and we'll have to pay too close of attention. I am I'm a master at multitasking. Aren't I chat? I can I can multitask like a bean. What do you have like a like a go-to mid-western edition like if you were if you were supposed to like introduce someone to like you're making it right now? This this is it. Oh Okay, I'm excited now because I've mean like I've heard of things about like Imbrosia salad. Okay. I love Imbrosia. Don't don't wait. No, you can't you can't have me on your stream here in the drag Ambrosia\nSpeaker 2: In front of my face, have you ever had um pickle rollups where it's like a pickle with like cream cheese and then like rolled into a piece of ham? Oh that way\nSpeaker 1: That de-morphed into something so grotesque, okay? When you were, like, fruit roll up and pickle, I was with you. I never tried it, but I have seen it on TikTok. And then you just added more words and added more ingredients. And then I started to, like, real back step by step. Hold on, what the- She's saying? We can probably start adding in the ground beef if you'd like.",
       "questions": [
         {
           "id": "Q4-1",
-          "question": "What are the speakers mainly doing during the conversation?",
-          "question_ja": "話し手たちは会話中、主に何をしていますか。",
-          "option_a": "Shopping at a grocery market",
-          "option_a_ja": "食料品店で買い物をしている",
-          "option_b": "Preparing a meal together",
-          "option_b_ja": "一緒に料理を作っている",
-          "option_c": "Reviewing an online cooking class",
-          "option_c_ja": "オンライン料理教室を評価している",
-          "option_d": "Ordering food at a restaurant",
-          "option_d_ja": "レストランで料理を注文している",
-          "answer": "B",
-          "explanation": "話し手たちは玉ねぎを炒めたり（reducing）、ニンニクを刻んだり（chop up the garlic）しながら料理の段取りや地方の料理について話しているため、正解はB「一緒に料理を作っている」です。"
+          "question": "What is the main topic of the conversation?",
+          "question_ja": "この会話の主な話題は何ですか？",
+          "option_a": "Cooking a dish together",
+          "option_a_ja": "一緒に料理すること",
+          "option_b": "Discussing a restaurant menu",
+          "option_b_ja": "レストランのメニューについて話すこと",
+          "option_c": "Planning a grocery shopping trip",
+          "option_c_ja": "食料品買い物の計画について話すこと",
+          "option_d": "Reviewing a cooking class",
+          "option_d_ja": "料理クラスのレビューについて話すこと",
+          "answer": "A",
+          "explanation": "会話では、料理の準備に関する具体的な指示や食材の選択が何度も言及されている。特にSpeaker 2がにんにくの購入先や調理順序について話していることから、一緒に料理することを主な話題としている。"
         },
         {
           "id": "Q4-2",
-          "question": "What ingredient do the speakers agree to cook first?",
-          "question_ja": "話し手たちはどの食材を最初に調理することに同意していますか。",
-          "option_a": "Garlic",
-          "option_a_ja": "ニンニク",
-          "option_b": "Ham",
-          "option_b_ja": "ハム",
-          "option_c": "Onions",
-          "option_c_ja": "玉ねぎ",
-          "option_d": "Pickles",
-          "option_d_ja": "ピクルス",
+          "question": "Where does Speaker 2 suggest purchasing garlic?",
+          "question_ja": "Speaker 2はにんにくをどこで購入することを提案していますか？",
+          "option_a": "At a local market",
+          "option_a_ja": "地元の市場で",
+          "option_b": "From a specialty store",
+          "option_b_ja": "専門店で",
+          "option_c": "At Costco",
+          "option_c_ja": "コスコで",
+          "option_d": "Online",
+          "option_d_ja": "オンラインで",
           "answer": "C",
-          "explanation": "スクリプト前半で \"All right, let's do the onions first. We'll do that. We'll just cook them low and slow.\" と述べており、玉ねぎを最初に弱火で炒めることに決めているため、正解はCの「玉ねぎ」です。"
+          "explanation": "Speaker 2は「I just go to Costco」と明確にコスコでにんにくを購入することを述べている。他の選択肢は会話に言及されていない。"
         },
         {
           "id": "Q4-3",
-          "question": "How does one speaker react to the mention of \"pickle rollups\"?",
-          "question_ja": "一方の話し手は「ピクルスロールアップ」の話題に対してどのように反応していますか。",
-          "option_a": "With enthusiasm and curiosity to try it",
-          "option_a_ja": "試してみたいという熱意と好奇心",
-          "option_b": "With skepticism and distaste",
-          "option_b_ja": "不信感と不快感",
-          "option_c": "With nostalgia for a childhood memory",
-          "option_c_ja": "幼少期の思い出に対する懐かしさ",
-          "option_d": "With indifference to regional recipes",
-          "option_d_ja": "郷土料理に対する無関心",
-          "answer": "B",
-          "explanation": "ピクルスロールアップの具材（ピクルス、クリームチーズ、ハム）を聞いた相手は \"That de-morphed into something so grotesque.\" や \"started to like, reel back step by step\" と述べてドン引き・嫌悪感を示しているため、正解はBです。"
+          "question": "Why does Speaker 1 mention being able to multitask?",
+          "question_ja": "Speaker 1がマルチタスクできると述べた理由は何ですか？",
+          "option_a": "To help the other person focus on chopping",
+          "option_a_ja": "相手がカットに集中できるようにするため",
+          "option_b": "To save time during cooking",
+          "option_b_ja": "調理時間を節約するため",
+          "option_c": "To demonstrate cooking skills",
+          "option_c_ja": "料理スキルを示すため",
+          "option_d": "To avoid making mistakes",
+          "option_d_ja": "ミスを避けるため",
+          "answer": "A",
+          "explanation": "Speaker 1は「so that way you don't have to you can focus on chopping」と、相手がカットに集中できるように自分がマルチタスクする必要があることを説明している。他の選択肢は会話に直接的な根拠がない。"
         }
-      ]
+      ],
+      "text": "Speaker 2: If I was cooking for other people, then absolutely, you're right. I would go out and I would get my ass fresh garlic. Okay, I know I'm giving you shit, but like, I'm just gonna do that too. I just just go to Costco. And I'm just like, ooh, a big jar of garlic for like four to four ninety nine. Don't mind if I do it. If you wanted, we could get the onions reducing now and chop up the garlic. Cause usually, I don't know how you like to do it, but I like to add the garlic in a little bit later.\nSpeaker 1: We can do it any way that you want. This is this is your recipe. I am but your humble slave. All right. Let's do the onions first. We'll do that. We'll just cook them low and slow. Sound good? So that way you don't have to you can focus on chopping and we'll have to pay too close of attention. I am I'm a master at multitasking. Aren't I chat? I can I can multitask like a bean. What do you have like a like a go-to mid-western edition like if you were if you were supposed to like introduce someone to like you're making it right now? This this is it. Oh Okay, I'm excited now because I've mean like I've heard of things about like Imbrosia salad. Okay. I love Imbrosia. Don't don't wait. No, you can't you can't have me on your stream here in the drag Ambrosia\nSpeaker 2: In front of my face, have you ever had um pickle rollups where it's like a pickle with like cream cheese and then like rolled into a piece of ham? Oh that way\nSpeaker 1: That de-morphed into something so grotesque, okay? When you were, like, fruit roll up and pickle, I was with you. I never tried it, but I have seen it on TikTok. And then you just added more words and added more ingredients. And then I started to, like, real back step by step. Hold on, what the- She's saying? We can probably start adding in the ground beef if you'd like.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 4,
+          "similarity": 0.052,
+          "old_chars": 1345,
+          "new_chars": 1793,
+          "issues": [
+            "既存スクリプトとの一致率が低い"
+          ]
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q4-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q4-2",
+            "score": 98,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q4-3",
+            "score": 95,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          }
+        ],
+        "summary": "監査結果: 全問合格。問題の質は高く、TOEIC Part 3/4の形式に合致しており、本文理解度を適切に評価できる問題となっている。特にQ4-1は会話全体のテーマを把握する能力を問う、良い問題である。"
+      }
     },
     {
       "chunk_index": 6,
       "start_sec": 385.6,
       "end_sec": 433.5,
-      "script": "What does your brother like to eat typically then? What is his favorite meal? He's one of those guys who's still in the process of growing up. So he just eats pizza rolls and instant pizzas all day. It's literally like, Ony bro, ever since we moved to Japan, all he ever wants is Burger King Whoppers and Pizza. Okay. And I'm just like, Ony bro, what do you want to eat today? A Whopper. I mean, you know, I kind of get it actually, Ony bro. I can understand when you dare side with him. Don't you f***ing dare. Okay. You're sleeping in the attic now. I have never visited Japan. Okay. That bedroom I was trying. No, no, no, wait, no, wait. I was thinking that it was not that for you either.",
+      "script": "Speaker 2: A mixed chicken? There's pepper and a mixed chicken. There's pepper on a mixed chicken and therefore it is spicy, he said. What does your brother like to eat typically then? Like what is his favorite meal? He's one of those guys who's still like in the process of growing up. So he just eats like pizza rolls and like instant pizzas all day. It's literally like only bro like ever since we moved to Japan all he ever wants is\nSpeaker 1: Burger King Whoppers and pizza, okay, and I'm just like, Oni bro, what do you want to eat today? A Whopper? I mean, you know, I kind of get it actually, Oni bro. I can understand. Don't you dare sigh with me. Don't you f***ing dare. Okay, but you're sleeping in the attic now. If you ever visit Japan, okay, that bedroom, I was trying it for you. No, no, no, wait, no, wait, don't you f***ing dare. It was not that for you either.\nSpeaker 2: The next step is going to be corn, green beans, the canned soup, and some milk. Here's where the problem lies. Not a problem, but this little situation. I can't find cream of chicken.",
       "questions": [
         {
           "id": "Q6-1",
-          "question": "What are the speakers mainly discussing?",
-          "question_ja": "話し手たちは主に何について話していますか？",
-          "option_a": "A plan to open a burger franchise",
-          "option_a_ja": "ハンバーガーのフランチャイズ店を開く計画",
-          "option_b": "The dietary habits of a family member",
-          "option_b_ja": "家族の食習慣",
-          "option_c": "The cost of living in Japan",
-          "option_c_ja": "日本での生活費",
-          "option_d": "Renovating an attic bedroom",
-          "option_d_ja": "屋根裏の寝室の改装",
-          "answer": "B",
-          "explanation": "冒頭で「What does your brother like to eat typically then?（普段、弟［兄］は何を食べるのが好きなの？）」と尋ねられ、日本に引っ越してからの兄弟の食事の傾向（ピザやハンバーガーばかり食べていること）について話しているため、Bが正解です。"
+          "question": "What does the speaker's brother typically eat?",
+          "question_ja": "話者の兄弟が普段よく食べるものはどれですか？",
+          "option_a": "Pizza rolls and instant pizzas",
+          "option_a_ja": "ピザロールとインスタントピザ",
+          "option_b": "Burger King Whoppers and pizza",
+          "option_b_ja": "バーガーキングのホッパーとピザ",
+          "option_c": "Mixed chicken with pepper",
+          "option_c_ja": "唐辛子の入ったミックスチキン",
+          "option_d": "Corn and green beans",
+          "option_d_ja": "コーンとグリーンビーンズ",
+          "answer": "A",
+          "explanation": "スクリプトでは、話者の兄弟が「pizza rolls and instant pizzas all day」を食べるという具体的な記述があります。BはSpeaker 1が自身の食べ物として挙げているもので、兄弟のものではありません。CはSpeaker 2が別の話題として言及しているもので、兄弟の食事とは関係ありません。Dは後述の「next step」に含まれる食材で、兄弟の日常的な食事ではありません。"
         },
         {
           "id": "Q6-2",
-          "question": "According to the speaker, what does the brother always want to eat since moving to Japan?",
-          "question_ja": "話し手によると、弟（兄）は日本に引っ越して以来、常に何を食べたがっていますか？",
-          "option_a": "Traditional Japanese ramen",
-          "option_a_ja": "伝統的な日本のラーメン",
-          "option_b": "Healthy homemade salads",
-          "option_b_ja": "健康的な自家製サラダ",
-          "option_c": "Burgers and pizza",
-          "option_c_ja": "ハンバーガーとピザ",
-          "option_d": "Fresh seafood dishes",
-          "option_d_ja": "新鮮なシーフード料理",
-          "answer": "C",
-          "explanation": "スクリプト中で「ever since we moved to Japan, all he ever wants is Burger King Whoppers and Pizza（日本に引っ越して以来、彼が欲しがるのはバーガーキングのワッパーとピザばかりだ）」と言及されているため、Cが正解です。"
+          "question": "What problem does Speaker 2 mention?",
+          "question_ja": "Speaker 2が言及している問題はどれですか？",
+          "option_a": "Unable to find cream of chicken",
+          "option_a_ja": "クリームチキンが見つからない",
+          "option_b": "The mixed chicken is too spicy",
+          "option_b_ja": "ミックスチキンが辛すぎる",
+          "option_c": "The brother refuses to eat pizza",
+          "option_c_ja": "兄弟がピザを食べたくない",
+          "option_d": "Not having enough milk",
+          "option_d_ja": "ミルクが足りない",
+          "answer": "A",
+          "explanation": "スクリプトの最後に「I can't find cream of chicken」と明記されています。BはSpeaker 2が最初に言及した「spicy」なミックスチキンですが、これは問題ではなく特徴です。Cはスクリプトに記述されていない情報です。Dは「some milk」が含まれているものの、不足しているという記述はありません。"
         },
         {
           "id": "Q6-3",
-          "question": "Why does the speaker jokingly say, \"You're sleeping in the attic now\"?",
-          "question_ja": "話し手が冗談交じりに「屋根裏で寝てもらうからな」と言ったのはなぜですか？",
-          "option_a": "The listener refused to cook dinner.",
-          "option_a_ja": "聞き手が夕食を作るのを拒否したため。",
-          "option_b": "The listener sympathized with the brother's food preferences.",
-          "option_b_ja": "聞き手が兄弟の好物の好みに共感・同調したため。",
-          "option_c": "The listener forgot to book a hotel room in Japan.",
-          "option_c_ja": "聞き手が日本のホテルを予約し忘れたため。",
-          "option_d": "The listener complained about the bedroom arrangement.",
-          "option_d_ja": "聞き手が寝室の配置について不満を言ったため。",
-          "answer": "B",
-          "explanation": "聞き手が「I kind of get it actually... I can understand（実は気持ちがちょっと分かるよ…理解できる）」と弟（兄）のジャンクフード好きな好みに理解を示したため、話し手が「Don't you dare side with him（あいつの味方をするな）」と咎め、冗談で「You're sleeping in the attic now（お前は屋根裏部屋行きだ）」と返しています。したがって、Bが正解です。"
+          "question": "What items are mentioned as the next step?",
+          "question_ja": "「next step」に含まれる食材はどれですか？",
+          "option_a": "Corn, green beans, canned soup, and milk",
+          "option_a_ja": "コーン、グリーンビーンズ、缶詰のスープ、ミルク",
+          "option_b": "Pizza rolls, instant pizzas, and Whoppers",
+          "option_b_ja": "ピザロール、インスタントピザ、ホッパー",
+          "option_c": "Mixed chicken, pepper, and cream of chicken",
+          "option_c_ja": "ミックスチキン、唐辛子、クリームチキン",
+          "option_d": "Burger King, pizza, and the attic",
+          "option_d_ja": "バーガーキング、ピザ、アトリエ",
+          "answer": "A",
+          "explanation": "スクリプトで「The next step is going to be corn, green beans, the canned soup, and some milk」と明記されています。Bは兄弟の食事とSpeaker 1の食べ物を混同した誤答です。Cは最初の会話に登場する食材で、「next step」には含まれていません。Dは場所やブランド名で、食材とは関係ありません。"
         }
-      ]
+      ],
+      "text": "Speaker 2: A mixed chicken? There's pepper and a mixed chicken. There's pepper on a mixed chicken and therefore it is spicy, he said. What does your brother like to eat typically then? Like what is his favorite meal? He's one of those guys who's still like in the process of growing up. So he just eats like pizza rolls and like instant pizzas all day. It's literally like only bro like ever since we moved to Japan all he ever wants is\nSpeaker 1: Burger King Whoppers and pizza, okay, and I'm just like, Oni bro, what do you want to eat today? A Whopper? I mean, you know, I kind of get it actually, Oni bro. I can understand. Don't you dare sigh with me. Don't you f***ing dare. Okay, but you're sleeping in the attic now. If you ever visit Japan, okay, that bedroom, I was trying it for you. No, no, no, wait, no, wait, don't you f***ing dare. It was not that for you either.\nSpeaker 2: The next step is going to be corn, green beans, the canned soup, and some milk. Here's where the problem lies. Not a problem, but this little situation. I can't find cream of chicken.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 6,
+          "similarity": 0.383,
+          "old_chars": 692,
+          "new_chars": 1040,
+          "issues": [
+            "既存スクリプトとの一致率が低い"
+          ]
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q6-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q6-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Explanationに「明記されています」という表現がある。TOEICの解説では、より客観的な表現（例：スクリプトでは～と述べられています）を用いるべき。"
+            ],
+            "recommended_fix": "Explanationの表現を修正する。"
+          },
+          {
+            "id": "Q6-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Explanationに「最初の会話に登場する食材」という記述がある。問題の意図から外れる情報が含まれている可能性がある。また、Cの選択肢の説明が少し冗長。"
+            ],
+            "recommended_fix": "Explanationの不要な情報を削除し、Cの選択肢の説明を簡潔にする。"
+          }
+        ],
+        "summary": "全体的に問題の質は高い。Explanationの表現について、TOEICの解説としてより適切な表現に修正することで、さらに品質を向上させることができる。"
+      }
     },
     {
       "chunk_index": 7,
       "start_sec": 433.5,
       "end_sec": 520.8,
-      "script": "The next step is going to be corn, green beans, the canned soup, and some milk. Here's where the problem lies. Not a problem, but it's a little situation. I can't find cream of chicken and cream of mushroom. I swear to you, it was there the other day. I swear. But for some reason, it chose not to exist today. What I was able to find was actually canned white sauce, kinds, actually on sale today at the grocery store. I've never used it before, but I'm guessing that it has a similar consistency. We have like, Costco artistry chicken, which adds a little bit of flavor. It's already cooked, so it kind of like speeds up the process a bit. And then we have fresh, shimeji mushrooms. Lucky you, this is the thing that while it does have general ingredients, you can put whatever the hell you want in it. Let's chop up those mushrooms and start throwing them in. This is what cooking is about, guys. It's got about flexibility. Going with the flow, if you don't have something, it's not the end of the world. Yeah, exactly. Exactly. So there's no worries. She's just being nice. I'm not being nice. This is literally, it's known as a garbage dish, where there's certain things that are our standard. You need one of the things that I know we don't have. But that's okay. Do you think we'll need all this mushroom? This is a lot bigger than no. Just maybe half of it. And then you can just chop it up to your liking and then just start incorporating it with the meat. We might want to then continue to cook the meat down. Oops, meat's going to be overcooked, but that's fine.",
+      "script": "Speaker 2: The next step is going to be corn, green beans, the canned soup, and some milk. Here's where the problem lies. Not a problem, but this little situation. I can't find cream of chicken.\nSpeaker 1: and cream of mushroom. I swear to you, it was there the other day. I swear. But for some reason, it chose not to exist today. What I was able to find was actually canned white sauce, pine, actually on sale today at the grocery store. I've never used it before, but I'm guessing that it has a similar consistency. We have like Costco artistry chicken, which adds a little bit of flavor. And it's already cooked, so it kind of like speeds up the process a bit. And then we have fresh shimeji mushrooms. Lucky you, this is the thing that while it does have a general ingredients, you can put whatever the hell you want in it. Let's chop up those mushrooms and start throwing them in. This is what cooking is about, guys. Okay, it's got about flexibility. Going with the flow, if you don't have something, it's not the end of the world.\nSpeaker 2: Yeah, exactly. Exactly. So there's no worries. I'm not being nice. This is literally a it's known as a garbage dish where there's certain things that are our standard like you need you need one of the things that I know we don't have. Do you think we'll need all this mushroom? This is a lot bigger than no. Take maybe half of it and then you can just chop it up to your liking and then just start incorporating it with the meat. We might want to then continue to cook the meat down. Oops, meat's gonna be overcooked but that's fine. Did you say we had rotisserie chicken too? Yeah, I'll go get that from the fruit. I actually just butchered it today so I will grab like a whole breast just for you. I am nervous about adding chicken in. Do you have chicken stock?",
       "questions": [
         {
           "id": "Q7-1",
-          "question": "What problem does the speaker mention regarding the recipe?",
-          "question_ja": "話し手はレシピに関してどのような問題を述べていますか。",
-          "option_a": "Some intended ingredients could not be found.",
-          "option_a_ja": "用意する予定だった材料が見つからなかった。",
-          "option_b": "The grocery store was out of chicken.",
-          "option_b_ja": "食料品店で鶏肉が売り切れていた。",
-          "option_c": "The cooking instructions were unclear.",
-          "option_c_ja": "調理手順が不明瞭だった。",
-          "option_d": "The canned vegetables had expired.",
-          "option_d_ja": "野菜の缶詰の賞味期限が切れていた。",
+          "question": "What ingredient is Speaker 1 using as a substitute for cream of chicken?",
+          "question_ja": "スピーカー1がクリーム・オブ・チキンの代わりに使用している食材はどれですか？",
+          "option_a": "Canned white sauce",
+          "option_a_ja": "缶詰のホワイトソース",
+          "option_b": "Costco artistry chicken",
+          "option_b_ja": "コストコのアートISTRYチキン",
+          "option_c": "Fresh shimeji mushrooms",
+          "option_c_ja": "新鮮なシメジ茸",
+          "option_d": "Rotisserie chicken",
+          "option_d_ja": "ロティスセリーチキン",
           "answer": "A",
-          "explanation": "話し手は「I can't find cream of chicken and cream of mushroom.（チキンクリームとマッシュルームクリームが見つからない）」と述べており、予定していた缶詰のスープ（材料）が見つからなかったという問題に言及しています。したがって(A)が正解です。"
+          "explanation": "スピーカー1は「What I was able to find was actually canned white sauce...」と述べており、クリーム・オブ・チキンの代わりに缶詰のホワイトソースを使用していることが明確に述べられている。他の選択肢は代替品として言及されていない。"
         },
         {
           "id": "Q7-2",
-          "question": "What is mentioned about the chicken being used?",
-          "question_ja": "使用されている鶏肉について何が述べられていますか。",
-          "option_a": "It was bought at a discount.",
-          "option_a_ja": "割引価格で購入された。",
-          "option_b": "It helps speed up the cooking process.",
-          "option_b_ja": "調理時間を短縮するのに役立つ。",
-          "option_c": "It needs to be seasoned first.",
-          "option_c_ja": "最初に味付けをする必要がある。",
-          "option_d": "It must be thoroughly boiled.",
-          "option_d_ja": "しっかりと茹でる必要がある。",
-          "answer": "B",
-          "explanation": "話し手はコストコのチキンについて「It's already cooked, so it kind of like speeds up the process a bit.（すでに加熱調理されているので、工程が少しスピードアップする）」と述べています。よって(B)「調理時間を短縮するのに役立つ」が正解です。"
+          "question": "What does Speaker 1 suggest about the recipe's flexibility?",
+          "question_ja": "スピーカー1はレシピの柔軟性についてどのようなことを述べていますか？",
+          "option_a": "It requires precise measurements",
+          "option_a_ja": "正確な分量が必要",
+          "option_b": "It must follow a strict order of steps",
+          "option_b_ja": "厳密な手順に従う必要がある",
+          "option_c": "It allows for creative substitutions",
+          "option_c_ja": "創造的な代替が許容されている",
+          "option_d": "It depends on the availability of specific brands",
+          "option_d_ja": "特定のブランドの有無に依存",
+          "answer": "C",
+          "explanation": "スピーカー1は「you can put whatever the hell you want in it」や「if you don't have something, it's not the end of the world」など、レシピが柔軟で代替が可能であることを強調している。他の選択肢は本文に反する。"
         },
         {
           "id": "Q7-3",
-          "question": "How much of the mushrooms does the speaker suggest using?",
-          "question_ja": "話し手はキノコをどれくらいの量使うことを提案していますか。",
-          "option_a": "All of them",
-          "option_a_ja": "全部",
-          "option_b": "A tiny pinch",
-          "option_b_ja": "ほんのひとつまみ",
-          "option_c": "About half",
-          "option_c_ja": "約半分",
-          "option_d": "None of them",
-          "option_d_ja": "まったく使わない",
-          "answer": "C",
-          "explanation": "キノコを全部使う必要があるかという問い（\"Do you think we'll need all this mushroom?\"）に対し、話し手は「Just maybe half of it.（たぶん半分くらいでいい）」と答えています。したがって(C)が正解です。"
+          "question": "What is Speaker 2 asking about at the end of the conversation?",
+          "question_ja": "会話の終わりにスピーカー2が尋ねているのは何ですか？",
+          "option_a": "The availability of chicken stock",
+          "option_a_ja": "鶏ガラスープの有無",
+          "option_b": "The quantity of mushrooms needed",
+          "option_b_ja": "キノコが必要な量",
+          "option_c": "The cooking time for the meat",
+          "option_c_ja": "肉の調理時間",
+          "option_d": "The source of the rotisserie chicken",
+          "option_d_ja": "ロティスセリーチキンの出所",
+          "answer": "A",
+          "explanation": "スピーカー2は「Do you have chicken stock?」と直接尋ねており、鶏ガラスープの有無を確認している。他の選択肢は本文に言及されていない。"
         }
-      ]
+      ],
+      "text": "Speaker 2: The next step is going to be corn, green beans, the canned soup, and some milk. Here's where the problem lies. Not a problem, but this little situation. I can't find cream of chicken.\nSpeaker 1: and cream of mushroom. I swear to you, it was there the other day. I swear. But for some reason, it chose not to exist today. What I was able to find was actually canned white sauce, pine, actually on sale today at the grocery store. I've never used it before, but I'm guessing that it has a similar consistency. We have like Costco artistry chicken, which adds a little bit of flavor. And it's already cooked, so it kind of like speeds up the process a bit. And then we have fresh shimeji mushrooms. Lucky you, this is the thing that while it does have a general ingredients, you can put whatever the hell you want in it. Let's chop up those mushrooms and start throwing them in. This is what cooking is about, guys. Okay, it's got about flexibility. Going with the flow, if you don't have something, it's not the end of the world.\nSpeaker 2: Yeah, exactly. Exactly. So there's no worries. I'm not being nice. This is literally a it's known as a garbage dish where there's certain things that are our standard like you need you need one of the things that I know we don't have. Do you think we'll need all this mushroom? This is a lot bigger than no. Take maybe half of it and then you can just chop it up to your liking and then just start incorporating it with the meat. We might want to then continue to cook the meat down. Oops, meat's gonna be overcooked but that's fine. Did you say we had rotisserie chicken too? Yeah, I'll go get that from the fruit. I actually just butchered it today so I will grab like a whole breast just for you. I am nervous about adding chicken in. Do you have chicken stock?",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 7,
+          "similarity": 0.632,
+          "old_chars": 1574,
+          "new_chars": 1781,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q7-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q7-2",
+            "score": 98,
+            "pass": true,
+            "issues": [
+              "Option A is a bit too strong. While the recipe *allows* for substitutions, saying it *requires* precise measurements is misleading. The emphasis is on flexibility, not precision."
+            ],
+            "recommended_fix": "Option A: Change 'It requires precise measurements' to 'It allows for some improvisation.'"
+          },
+          {
+            "id": "Q7-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "While the answer is correct, the phrasing of option D is slightly misleading. Speaker 2 asks about chicken stock, but the context implies they're concerned about whether they *have* it, not where it came from.  A more direct phrasing would be better."
+            ],
+            "recommended_fix": "Option D: Change 'The source of the rotisserie chicken' to 'Whether they have chicken stock.'"
+          }
+        ],
+        "summary": "全体的に問題の質は高い。問題文、選択肢、解説は本文と整合性が取れており、TOEIC Part 3/4として適切。Q7-2とQ7-3の選択肢の表現を少し修正することで、さらに問題の精度を高めることができる。"
+      }
     },
     {
       "chunk_index": 8,
       "start_sec": 520.8,
       "end_sec": 601.6,
-      "script": "Did you say we had rotisserie chicken, too? Yeah, I'll go get that from the fruit. I actually just butchered it today, so I will grab like a whole breast just for you. I am nervous about adding chicken in. Do you have chicken stock? I do. I do. We could replace the milk with chicken stock. And that might be better than adding actual chicken. Okay. Let me grab my chicken stock. We'll just substitute the chicken stock for the milk. I don't know how creamy, how creamy is the cream sauce actually? Let's open that up. I take a look first. But generally, how wet do you prefer your meat? You don't want to make it too wet. So preferably the sauce is pretty creamy and goes in there and is very thick and then you just basically soften it with the liquid that you're adding. It's pretty thick. It's in there. Oh, this legit is kind of like jello. We also then need the corn and green beans. Okay. So another hiccup? Not really a hiccup, but it's bad. I was able to get canned corn of course, but canned green beans. There's also not a thing here. So I got frozen beans. If it's not canned, that's okay. If you've got that frozen green beans, let's get it. Did you hear that? I didn't ruin. Okay. Everyone just likes to preemptively yell at me and assume that I messed things up. I didn't ruin anything. Yeah. Nothing is ruined.",
+      "script": "Speaker 2: Do you think we'll need all this mushroom? This is a lot bigger than no. Take maybe half of it and then you can just chop it up to your liking and then just start incorporating it with the meat. We might want to then continue to cook the meat down. Oops, meat's gonna be overcooked but that's fine. Did you say we had rotisserie chicken too? Yeah, I'll go get that from the fruit. I actually just butchered it today so I will grab like a whole breast just for you. I am nervous about adding chicken in. Do you have chicken stock? I do. We could replace the milk with chicken stock. And that might be better than adding actual chicken. Let me grab my chicken stock. So we'll just substitute the chicken stock for the milk. I don't know how creamy, how creamy is the cream sauce actually? Let's open that up and take a look first. Generally, how wet do you prefer your meat? You don't want to make it too wet. So preferably the sauce is pretty creamy and goes in there and is very thick and then you just basically soften it with the liquid that you're adding. It's pretty thick. It's in there. Oh, this legit is kind of like jello.\nSpeaker 1: We also then need the corn and green beans. Okay, so, uh, another hiccup? No, not really a hiccup, but, but, but, I was able to get canned corn, of course, but, um, canned green beans. There's also not a thing here, so I got frozen beans. Uh, if it's not canned, that's okay. If you've got the, that frozen green beans, let's get it. Did you hear that? I didn't ruin. Okay, everyone just like likes to preemptively yell at me and assume that I messed things up. I didn't ruin anything.\nSpeaker 2: Yeah, nothing is ruined. Also, can I ask, are you wearing panties today? Just, um, I am, but only because it's, uh, it's girl time. Yeah, if you know what I mean. Oh, it's girl.",
       "questions": [
         {
           "id": "Q8-1",
-          "question": "What do the speakers decide to use instead of milk?",
-          "question_ja": "話し手たちは牛乳の代わりに何を使うことに決めましたか。",
-          "option_a": "Rotisserie chicken",
-          "option_a_ja": "ローストチキン",
-          "option_b": "Chicken stock",
-          "option_b_ja": "チキンストック（鶏のスープストック）",
-          "option_c": "Canned corn liquid",
-          "option_c_ja": "コーン缶の汁",
-          "option_d": "Cream sauce",
-          "option_d_ja": "クリームソース",
-          "answer": "B",
-          "explanation": "会話の中で「We could replace the milk with chicken stock.（牛乳をチキンストックで代用できるよ）」や「We'll just substitute the chicken stock for the milk.（チキンストックを牛乳の代わりに使おう）」と述べられているため、Bが正解です。"
+          "question": "What will the speakers do with the chicken stock?",
+          "question_ja": "話者は鶏がらスープをどう使う予定ですか？",
+          "option_a": "Replace the milk in the sauce",
+          "option_a_ja": "ソースの牛乳を置き換える",
+          "option_b": "Use it to cook the meat further",
+          "option_b_ja": "肉をさらに調理するために使う",
+          "option_c": "Add it to the mushrooms",
+          "option_c_ja": "キノコに加える",
+          "option_d": "Use it to soften the cream sauce",
+          "option_d_ja": "クリームソースを柔らかくするために使う",
+          "answer": "A",
+          "explanation": "Speaker 2 explicitly states, 'We could replace the milk with chicken stock. And that might be better than adding actual chicken.' This directly indicates the substitution of chicken stock for milk in the sauce."
         },
         {
           "id": "Q8-2",
-          "question": "What ingredient issue does one of the speakers explain?",
-          "option_a": "The grocery store was closed.",
-          "option_a_ja": "食料品店が閉まっていたこと",
-          "option_b": "Canned green beans were not available.",
-          "option_b_ja": "インゲンの缶詰が手に入らなかったこと",
-          "option_c": "The corn had spoiled.",
-          "option_c_ja": "トウモロコシが傷んでいたこと",
-          "option_d": "The frozen beans melted on the way home.",
-          "option_d_ja": "冷凍インゲンが帰宅途中に溶けてしまったこと",
-          "answer": "B",
-          "explanation": "話し手の一人が「I was able to get canned corn of course, but canned green beans. There's also not a thing here. So I got frozen beans.（もちろんコーンの缶詰は手に入ったけど、インゲンの缶詰はここには売っていなかった。だから冷凍のインゲンを買ってきた）」と食材に関する問題を説明しているため、Bが正解です。"
+          "question": "Why does Speaker 2 mention the chicken stock?",
+          "question_ja": "話者2が鶏がらスープを言及した理由は何ですか？",
+          "option_a": "To make the sauce less creamy",
+          "option_a_ja": "ソースをよりクリーム状にしたいから",
+          "option_b": "Because the meat might be overcooked",
+          "option_b_ja": "肉が過熟になる可能性があるから",
+          "option_c": "As an alternative to adding actual chicken",
+          "option_c_ja": "実際の鶏肉を加える代わりに",
+          "option_d": "To soften the cream sauce",
+          "option_d_ja": "クリームソースを柔らかくするため",
+          "answer": "C",
+          "explanation": "Speaker 2 says, 'We could replace the milk with chicken stock. And that might be better than adding actual chicken.' This shows the chicken stock is proposed as a substitute for actual chicken in the recipe."
         },
         {
           "id": "Q8-3",
-          "question": "Why is one speaker relieved at the end of the conversation?",
-          "question_ja": "会話の最後に、一方の話し手はなぜ安心しているのですか。",
-          "option_a": "The other speaker accepted a substitute item.",
-          "option_a_ja": "相手が代わりの品を受け入れてくれたから。",
-          "option_b": "A store employee found the missing product.",
-          "option_b_ja": "店員が見つからなかった商品を見つけてくれたから。",
-          "option_c": "The cooking was completed ahead of schedule.",
-          "option_c_ja": "料理が予定より早く完成したから。",
-          "option_d": "A spilled liquid was cleaned up quickly.",
-          "option_d_ja": "こぼれた液体を素早く片付けられたから。",
-          "answer": "A",
-          "explanation": "缶詰ではなく冷凍インゲンを買ってきたことに対して相手が「If it's not canned, that's okay. If you've got that frozen green beans, let's get it.（缶詰じゃなくても大丈夫。冷凍インゲンがあるならそれを使おう）」と代用品を受け入れたため、話し手は「Did you hear that? I didn't ruin. ... I didn't ruin anything.（聞いた？台無しにしてないよね。何も台無しにしてない）」と安堵しています。したがってAが正解です。"
+          "question": "What does Speaker 2 say about the cream sauce?",
+          "question_ja": "話者2はクリームソースについて何と言っていますか？",
+          "option_a": "It is too thin",
+          "option_a_ja": "あまりにも薄い",
+          "option_b": "It needs more liquid",
+          "option_b_ja": "もっと液体が必要",
+          "option_c": "It is very thick, like jello",
+          "option_c_ja": "非常に厚く、ゼリーのように見える",
+          "option_d": "It should be mixed with the meat first",
+          "option_d_ja": "まず肉と混ぜるべき",
+          "answer": "C",
+          "explanation": "Speaker 2 states, 'It's pretty thick. It's in there. Oh, this legit is kind of like jello.' This directly describes the texture of the cream sauce as thick and jello-like."
         }
-      ]
+      ],
+      "text": "Speaker 2: Do you think we'll need all this mushroom? This is a lot bigger than no. Take maybe half of it and then you can just chop it up to your liking and then just start incorporating it with the meat. We might want to then continue to cook the meat down. Oops, meat's gonna be overcooked but that's fine. Did you say we had rotisserie chicken too? Yeah, I'll go get that from the fruit. I actually just butchered it today so I will grab like a whole breast just for you. I am nervous about adding chicken in. Do you have chicken stock? I do. We could replace the milk with chicken stock. And that might be better than adding actual chicken. Let me grab my chicken stock. So we'll just substitute the chicken stock for the milk. I don't know how creamy, how creamy is the cream sauce actually? Let's open that up and take a look first. Generally, how wet do you prefer your meat? You don't want to make it too wet. So preferably the sauce is pretty creamy and goes in there and is very thick and then you just basically soften it with the liquid that you're adding. It's pretty thick. It's in there. Oh, this legit is kind of like jello.\nSpeaker 1: We also then need the corn and green beans. Okay, so, uh, another hiccup? No, not really a hiccup, but, but, but, I was able to get canned corn, of course, but, um, canned green beans. There's also not a thing here, so I got frozen beans. Uh, if it's not canned, that's okay. If you've got the, that frozen green beans, let's get it. Did you hear that? I didn't ruin. Okay, everyone just like likes to preemptively yell at me and assume that I messed things up. I didn't ruin anything.\nSpeaker 2: Yeah, nothing is ruined. Also, can I ask, are you wearing panties today? Just, um, I am, but only because it's, uh, it's girl time. Yeah, if you know what I mean. Oh, it's girl.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 8,
+          "similarity": 0.726,
+          "old_chars": 1326,
+          "new_chars": 1794,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q8-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q8-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option A is slightly misleading. While the chicken stock is an alternative to chicken, the primary reason for mentioning it is the substitution itself, not solely to make the sauce less creamy. The explanation could be more precise."
+            ],
+            "recommended_fix": "Option A: To offer a substitute for adding actual chicken. Explanation: Speaker 2 says, 'We could replace the milk with chicken stock. And that might be better than adding actual chicken.' This shows the chicken stock is proposed as a substitute for actual chicken in the recipe."
+          },
+          {
+            "id": "Q8-3",
+            "score": 98,
+            "pass": true,
+            "issues": [
+              "Option A is a bit too negative. The sauce isn't *too* thin; it's exceptionally thick.  A more neutral phrasing would be better."
+            ],
+            "recommended_fix": "Option A: It is surprisingly thick. (or It is exceptionally thick.)"
+          }
+        ],
+        "summary": "全体的に問題の質は高い。選択肢の微妙なニュアンス調整でさらに改善の余地がある。"
+      }
     },
     {
       "chunk_index": 10,
       "start_sec": 655.0,
       "end_sec": 746.6,
-      "script": "I eat a type two cook for your friends or the ones that kind of just enjoy it and then just eat and do whatever. Oh, no. I am the grill master. I will not actually let anyone else touch the tongs. I will hold them hostage. I need to cook. I will serve everyone and I'll be like, here, here, eat your food. We should chop these up. They're too big. Chop them like in threes. They're going to be frozen though. So probably just rip them up. And then technically, we only need to heat it up till it's bubbling, but we can just wait till those green beans are a little soft in there and then we can call it good. But we also still have to bake it. But we won't bake it like a ton. But we should probably start the star of the show. Okay. You need the star of the show? This is not the star of the show. And the tater. Oh, this is not the star. It's the tater doesn't. The cheese says the star. The cheese and the tater tots are the star of the show. I thought this was like the heart of the dish and everything else was just like, you know, the topping. I guess I can tell you the name of this dish because it seems you don't know it. If you don't know it at this point, you don't know it. It's called tater tot hot dish. Tater tot because there's tater tots and hot dish because it's hot food. No. So a hot dish refers to a casserole. They're the same thing. So you were supposed to bake it in a casserole dish. Oh. It was like way they just legit called it hot dish because it was hot. I was like, I mean, you're going to put a layer. That's okay. That'll work. I am ready, mistress.",
+      "script": "Speaker 1: I should have mentioned that at the beginning I forgot oh my oven takes about four minutes to preheat so if if we're like four minutes away then I can probably heat preheated then okay four minutes two won't take that long so we can also just talk we'll be waiting for it to preheat if it comes to that I either type to cook for your friends or the ones that kind of just like enjoy it and then just like eat and do whatever\nSpeaker 2: Oh, no, I am the grill master. I will not actually let anyone else touch the tongs. I will hold them hostage. I need to poke. I will serve everyone and I'll be like, here, here, eat, eat, eat, eat your food. We should chop these up. They're too big. Chop them like in threes. They're a bit frozen though, so probably just like rip them up. And then technically, we only need to heat it up till it's bubbling, but we can just wait till those green beans are a little soft in there, and then we can call it good. But we also still have to bake it. But we won't bake it like a ton, but we should probably start the the star of the show. Okay. This is not the star of the show. And the tatered. This is not the star. It's the tater tots and the cheese. The cheese and the tater tots are the star of the show. I thought this was like the heart of the dish and everything else was just like, you know, the topping. I guess I can tell you the name of this dish because it seems you don't know it. If you don't know it at this point, you don't know it. It's called tater tot hot dish. Tater tot because there's tater tots. and hot dish because it's hot food. No, so a hot dish refers to a casserole. They're the same thing. So you were supposed to bake it in a casserole dish. Oh, I was like, wait, they just legit called it hot dish because it was hot. I was like, I mean, you're gonna put a layer. That's okay. That'll work. I am ready, Mistress. Do I just like scoop? Yeah, scoop it in. Don't overfill it, obviously. You want to have some room on the top. We're only making one serving.",
       "questions": [
         {
           "id": "Q10-1",
-          "question": "What are the speakers mainly doing?",
-          "question_ja": "話者たちは主に何をしていますか。",
-          "option_a": "Shopping for ingredients at a market",
-          "option_a_ja": "市場で食材を買い物している",
-          "option_b": "Preparing a meal together",
-          "option_b_ja": "一緒に料理の準備をしている",
-          "option_c": "Reviewing a restaurant menu",
-          "option_c_ja": "レストランのメニューを吟味している",
-          "option_d": "Cleaning cooking utensils",
-          "option_d_ja": "調理器具を洗浄している",
-          "answer": "B",
-          "explanation": "話者たちは食材を切ったり（\"chop these up\"）、温めたり焼いたりしながら料理（tater tot hot dish）を作っているため、(B)「一緒に料理の準備をしている」が適切です。"
+          "question": "What is the main component of the dish being prepared?",
+          "question_ja": "準備されている料理の主な成分は何ですか？",
+          "option_a": "Tater tots and cheese",
+          "option_a_ja": "タテロットとチーズ",
+          "option_b": "Green beans and frozen vegetables",
+          "option_b_ja": "グリーンビーンズと凍った野菜",
+          "option_c": "Casserole dish and tongs",
+          "option_c_ja": "カセロール皿とトング",
+          "option_d": "Tongs and oven",
+          "option_d_ja": "トングとオーブン",
+          "answer": "A",
+          "explanation": "Speaker 2 explicitly states that 'the cheese and the tater tots are the star of the show,' indicating they are the main components. Other options like green beans are mentioned as secondary ingredients, while casserole dish and tongs are tools, not ingredients."
         },
         {
           "id": "Q10-2",
-          "question": "According to the speakers, what is considered the \"star of the show\"?",
-          "question_ja": "話者たちによると、この料理の「主役」とされているものは何ですか。",
-          "option_a": "Green beans",
-          "option_a_ja": "インゲン豆",
-          "option_b": "A spicy sauce",
-          "option_b_ja": "辛いソース",
-          "option_c": "The cheese and tater tots",
-          "option_c_ja": "チーズとテイタートッツ",
-          "option_d": "The meat filling",
-          "option_d_ja": "肉の具材",
-          "answer": "C",
-          "explanation": "会話の中で \"The cheese and the tater tots are the star of the show.\"（チーズとテイタートッツが主役だよ）と明確に述べられているため、(C)が正解です。"
+          "question": "Why does Speaker 1 mention the oven's preheating time?",
+          "question_ja": "スピーカー1がオーブンの予熱時間を言及した理由は何ですか？",
+          "option_a": "To coordinate the timing of cooking and conversation",
+          "option_a_ja": "調理と会話のタイミングを調整するため",
+          "option_b": "To emphasize the importance of precise cooking",
+          "option_b_ja": "正確な調理の重要性を強調するため",
+          "option_c": "To explain the oven's technical specifications",
+          "option_c_ja": "オーブンの技術仕様を説明するため",
+          "option_d": "To demonstrate the complexity of the dish",
+          "option_d_ja": "料理の複雑さを示すため",
+          "answer": "A",
+          "explanation": "Speaker 1 says 'if we're like four minutes away then I can probably heat preheated then okay four minutes two won't take that long so we can also just talk.' This indicates they are using the preheating time to allow for conversation while waiting."
         },
         {
           "id": "Q10-3",
-          "question": "What does one of the speakers explain about a \"hot dish\"?",
-          "question_ja": "話者の一人は「ホットディッシュ」について何と説明していますか。",
-          "option_a": "It refers to a casserole.",
-          "option_a_ja": "キャセロールのことを指す。",
-          "option_b": "It must be served extremely hot.",
-          "option_b_ja": "非常に熱い状態で提供しなければならない。",
-          "option_c": "It is traditionally cooked over a grill.",
-          "option_c_ja": "伝統的にグリルの上で調理される。",
-          "option_d": "It requires rare seasoning.",
-          "option_d_ja": "珍しい調味料を必要とする。",
+          "question": "What is the name of the dish being prepared?",
+          "question_ja": "準備されている料理の名前は何ですか？",
+          "option_a": "Tater tot hot dish",
+          "option_a_ja": "タテロット・ホットディッシュ",
+          "option_b": "Casserole dish",
+          "option_b_ja": "カセロールディッシュ",
+          "option_c": "Grilled vegetable casserole",
+          "option_c_ja": "グリル野菜カセロール",
+          "option_d": "Frozen green bean dish",
+          "option_d_ja": "凍ったグリーンビーンズ料理",
           "answer": "A",
-          "explanation": "話者が \"So a hot dish refers to a casserole. They're the same thing.\"（ホットディッシュとはキャセロールのことだよ。同じものなんだ）と説明しているため、(A)が正解です。"
+          "explanation": "Speaker 2 explicitly states 'It's called tater tot hot dish. Tater tot because there's tater tots. and hot dish because it's hot food.' This directly identifies the dish's name, while other options are either components (casserole dish) or unrelated (grilled vegetable casserole, frozen green bean dish)."
         }
-      ]
+      ],
+      "text": "Speaker 1: I should have mentioned that at the beginning I forgot oh my oven takes about four minutes to preheat so if if we're like four minutes away then I can probably heat preheated then okay four minutes two won't take that long so we can also just talk we'll be waiting for it to preheat if it comes to that I either type to cook for your friends or the ones that kind of just like enjoy it and then just like eat and do whatever\nSpeaker 2: Oh, no, I am the grill master. I will not actually let anyone else touch the tongs. I will hold them hostage. I need to poke. I will serve everyone and I'll be like, here, here, eat, eat, eat, eat your food. We should chop these up. They're too big. Chop them like in threes. They're a bit frozen though, so probably just like rip them up. And then technically, we only need to heat it up till it's bubbling, but we can just wait till those green beans are a little soft in there, and then we can call it good. But we also still have to bake it. But we won't bake it like a ton, but we should probably start the the star of the show. Okay. This is not the star of the show. And the tatered. This is not the star. It's the tater tots and the cheese. The cheese and the tater tots are the star of the show. I thought this was like the heart of the dish and everything else was just like, you know, the topping. I guess I can tell you the name of this dish because it seems you don't know it. If you don't know it at this point, you don't know it. It's called tater tot hot dish. Tater tot because there's tater tots. and hot dish because it's hot food. No, so a hot dish refers to a casserole. They're the same thing. So you were supposed to bake it in a casserole dish. Oh, I was like, wait, they just legit called it hot dish because it was hot. I was like, I mean, you're gonna put a layer. That's okay. That'll work. I am ready, Mistress. Do I just like scoop? Yeah, scoop it in. Don't overfill it, obviously. You want to have some room on the top. We're only making one serving.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 10,
+          "similarity": 0.716,
+          "old_chars": 1581,
+          "new_chars": 2006,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q10-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q10-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option B is slightly misleading. While precision is involved, the primary reason is to facilitate conversation. The wording could be softened to better reflect the speaker's intent."
+            ],
+            "recommended_fix": "Option B: To allow for conversation while waiting for the oven to preheat."
+          },
+          {
+            "id": "Q10-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option C is too close to a plausible, though incorrect, answer. It could be reworded to be more definitively wrong."
+            ],
+            "recommended_fix": "Option C: A dish primarily featuring grilled vegetables."
+          }
+        ],
+        "summary": "全体的に問題の質は高い。問題文、選択肢、解説は適切であり、本文からの導出可能性、誤答の排除、文脈理解の必要性など、全ての条件を満たしている。Option BとOption Cの表現を少し修正することで、さらに問題の質を向上させることができる。"
+      }
     },
     {
       "chunk_index": 12,
       "start_sec": 810.9,
       "end_sec": 857.6,
-      "script": "Now we'll do the cheese and then we'll find out how the hell we're going to do the tater tots. The reason why Nero says that is because that was actually the one thing I specifically told her that I couldn't buy, which was tater tots. So I said that they had hash browns. So maybe we can like, mangle the tater tot, sorry, the hash browns into tots. Do you got an air fryer? I don't. I did not rebuy an air fryer. Oh my god. So this is what it looks like. OK. Hashido poteto. Cover the top in cheese. Oh, so tots first and then she's on top. No, no, no, no, cover the top, the top of the, the top of the, the top right now. How interesting. I was expecting the cheese to be on top. The cheese goes here directly onto the meat.",
+      "script": "Speaker 2: fridge. And I'm just like, I'm happy for them. This is about two thirds height. So one third left, I guess. Yeah, that's fine. Now we'll do the cheese and then we'll find out how the hell we're going to do the the tater tots.\nSpeaker 1: The reason why Narissa says that is because that was actually the one thing I specifically told her that I couldn't buy, which was Tater Tots. So I said that they had hash browns. So maybe we can like, mangle the hash browns into tots. Do you got an air fryer? I don't. I passed away. I did not rebuy an air fryer. Oh my god. So this is what it looks like. Okay. Hashudo poteto. Cover the top in cheese. Oh, so tots first and then cheese on top? No, no. Cover the top. The top of the... Oh, top, top right now. How interesting. I was expecting the cheese to be on top. The cheese goes here directly onto the meat. Is there anything you're looking forward to doing if you ever visit Japan? Like, outside of eating. I'm sure everyone, you know, is excited for that, but any other activities or things you want to see or visit. I want to go and onsen in the mountains when it's cold out, like when there's snow everywhere. With the monkeys? Yeah. Yeah. With the monkeys.",
       "questions": [
         {
           "id": "Q12-1",
-          "question": "What item was one of the speakers unable to buy?",
-          "question_ja": "話者の一人が購入できなかった品物は何ですか。",
-          "option_a": "Cheese",
-          "option_a_ja": "チーズ",
-          "option_b": "Tater tots",
-          "option_b_ja": "テイタートッツ（一口サイズのポテト）",
-          "option_c": "An air fryer",
-          "option_c_ja": "ノンフライヤー",
-          "option_d": "Ground meat",
-          "option_d_ja": "ひき肉",
-          "answer": "B",
-          "explanation": "話者が「that was actually the one thing I specifically told her that I couldn't buy, which was tater tots（具体的に買えなかったと伝えた唯一のものがテイタートッツだった）」と述べているため、Bが正解です。"
+          "question": "What is the speaker's current assessment of the fridge's contents?",
+          "question_ja": "話者の現在の冷蔵庫の中身についての評価はどれですか？",
+          "option_a": "There is one third of the space remaining",
+          "option_a_ja": "1/3のスペースが残っている",
+          "option_b": "The fridge is completely full",
+          "option_b_ja": "冷蔵庫は完全に満タン",
+          "option_c": "Two thirds of the space is already occupied",
+          "option_c_ja": "2/3のスペースが既に占められている",
+          "option_d": "The fridge is half empty",
+          "option_d_ja": "冷蔵庫は半分空いている",
+          "answer": "A",
+          "explanation": "Speaker 2 states 'This is about two thirds height. So one third left, I guess.' This directly indicates that one third of the space remains available."
         },
         {
           "id": "Q12-2",
-          "question": "What does a speaker suggest doing with the hash browns?",
-          "question_ja": "話者はハッシュドポテトをどうすることを提案していますか。",
-          "option_a": "Cooking them in an air fryer",
-          "option_a_ja": "ノンフライヤーで調理すること",
-          "option_b": "Molding them into smaller potato shapes",
-          "option_b_ja": "つぶして小さなポテトの形に成形すること",
-          "option_c": "Returning them to the grocery store",
-          "option_c_ja": "食料品店に返品すること",
-          "option_d": "Serving them as a separate side dish",
-          "option_d_ja": "別のサイドディッシュとして出すこと",
-          "answer": "B",
-          "explanation": "話者は「maybe we can like, mangle the... hash browns into tots（ハッシュドポテトをつぶしてトッツの形にできるかもしれない）」と提案しているため、Bが正解です。"
+          "question": "Why did the speaker mention Tater Tots specifically?",
+          "question_ja": "話者が特にタテロットを言及した理由はどれですか？",
+          "option_a": "They were the only item the speaker could not purchase",
+          "option_a_ja": "それらが話者が購入できなかった唯一の品目だった",
+          "option_b": "They are the speaker's favorite food",
+          "option_b_ja": "それらが話者の一番好きな食べ物",
+          "option_c": "They are required for the current cooking project",
+          "option_c_ja": "現在の料理プロジェクトに必要な品目",
+          "option_d": "They are a common snack in Japan",
+          "option_d_ja": "日本では一般的なスナック",
+          "answer": "A",
+          "explanation": "Speaker 1 explains that Narissa's comment was based on the speaker's explicit instruction that Tater Tots were something they could not buy. This shows that Tater Tots were specifically excluded from the purchase."
         },
         {
           "id": "Q12-3",
-          "question": "What is surprising to one of the speakers?",
-          "question_ja": "話者の一人にとって何が意外でしたか。",
-          "option_a": "The cheese is placed directly onto the meat.",
-          "option_a_ja": "チーズが肉の上に直接乗せられること。",
-          "option_b": "The dish requires a long cooking time.",
-          "option_b_ja": "料理に長い調理時間がかかること。",
-          "option_c": "An air fryer is required for the recipe.",
-          "option_c_ja": "レシピにノンフライヤーが必要なこと。",
-          "option_d": "The ingredients have already spoiled.",
-          "option_d_ja": "材料がすでに傷んでしまっていること。",
-          "answer": "A",
-          "explanation": "会話の最後で「How interesting. I was expecting the cheese to be on top. The cheese goes here directly onto the meat.（面白いね。チーズは一番上に乗ると思っていたよ。チーズは直接肉の上に乗せるんだね）」と言っていることから、Aが正解です。"
+          "question": "What activity does the speaker express interest in during a visit to Japan?",
+          "question_ja": "話者が日本への訪問中に興味を持っている活動はどれですか？",
+          "option_a": "Visiting temples in Kyoto",
+          "option_a_ja": "京都の寺を訪れる",
+          "option_b": "Trying traditional Japanese cuisine",
+          "option_b_ja": "伝統的な日本の料理を試す",
+          "option_c": "Experiencing onsen in mountainous areas",
+          "option_c_ja": "山間の温泉を体験する",
+          "option_d": "Observing monkeys in natural habitats",
+          "option_d_ja": "自然の生息地でサルを観察する",
+          "answer": "C",
+          "explanation": "The speaker explicitly states wanting to go to 'onsen in the mountains when it's cold out, like when there's snow everywhere. With the monkeys?' This indicates a specific interest in mountain onsen experiences with monkeys."
         }
-      ]
+      ],
+      "text": "Speaker 2: fridge. And I'm just like, I'm happy for them. This is about two thirds height. So one third left, I guess. Yeah, that's fine. Now we'll do the cheese and then we'll find out how the hell we're going to do the the tater tots.\nSpeaker 1: The reason why Narissa says that is because that was actually the one thing I specifically told her that I couldn't buy, which was Tater Tots. So I said that they had hash browns. So maybe we can like, mangle the hash browns into tots. Do you got an air fryer? I don't. I passed away. I did not rebuy an air fryer. Oh my god. So this is what it looks like. Okay. Hashudo poteto. Cover the top in cheese. Oh, so tots first and then cheese on top? No, no. Cover the top. The top of the... Oh, top, top right now. How interesting. I was expecting the cheese to be on top. The cheese goes here directly onto the meat. Is there anything you're looking forward to doing if you ever visit Japan? Like, outside of eating. I'm sure everyone, you know, is excited for that, but any other activities or things you want to see or visit. I want to go and onsen in the mountains when it's cold out, like when there's snow everywhere. With the monkeys? Yeah. Yeah. With the monkeys.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 12,
+          "similarity": 0.411,
+          "old_chars": 726,
+          "new_chars": 1193,
+          "issues": [
+            "既存スクリプトとの一致率が低い"
+          ]
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q12-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q12-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option A could be slightly more precise. While Tater Tots were unpurchased, the phrasing 'only item' is not explicitly stated. A more accurate phrasing would acknowledge it was *specifically* mentioned as unpurchasable."
+            ],
+            "recommended_fix": "Option A: They were specifically mentioned as an item the speaker could not purchase."
+          },
+          {
+            "id": "Q12-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "While option C is correct, option D is not entirely incorrect. The speaker *does* mention monkeys. Combining the two activities into a single answer might be more aligned with the nuance of the conversation.  However, this is a minor point and doesn't fundamentally invalidate the question."
+            ],
+            "recommended_fix": "Consider combining the essence of options C and D into a single, more precise option. For example: 'Experiencing onsen in mountainous areas with monkeys.'"
+          }
+        ],
+        "summary": "監査結果: 全体的に高品質な問題セットです。問題文、選択肢、解説は適切であり、本文理解度を試す良い問題となっています。Q12-2とQ12-3については、若干の改善点がありますが、全体的な品質を損なうものではありません。"
+      }
     },
     {
       "chunk_index": 14,
       "start_sec": 935.8,
       "end_sec": 978.7,
-      "script": "I think this is the first time I had to wash this little dishes. Like what do I have to wash? I mean, spatula. Not much. Mmm. Are you are you looking to expand your horror, Naurisa? Of course I am. Anyone and everyone is welcome. Just not chat though, right? Cause chat's thinking. Yeah, not that. No, not them. But can I, can I, could I, could I have a side in and put in some paperwork for myself? You don't even need to put any paperwork. You're already in. I'm in! Oh my God, I'm in! Oh my God, mom? I gotta, I gotta call my mom. Oh, look how, look how jealous and angry they are. Oh yes. Let's see them, mom. Chat, see them, mom. You look pretty.",
+      "script": "Speaker 1: Yeah, 15, 15, 20 minutes sounds about right to me. So we clean up while we're waiting for it to finish. I think this is the first time I had to wash this little dishes. Like what do I have to wash? I mean, spatula. Not much. Are you are you looking to expand your horror? Of course I am anyone and everyone is welcome. Just not chat though, right? Because chat stinks. No, not them. But can I can I could I could I've signed in and put in some paperwork for myself? You don't even need to put any paperwork. You're already in. I'm in! Oh my god, I'm in! Oh my god, mom? I gotta call my mom. Oh, look how jealous and angry they are. Oh, yes. Let's see them all, chat, see them all. Do you have like an encouraging relationship with your chatter? Do you kind of have it similar to mine where we're always just trying to like kill each other? Thankfully, my chat, my chat is very fantastic. They're always being very supportive. So that's what I'm used to.",
       "questions": [
         {
           "id": "Q14-1",
-          "question": "What is one speaker doing at the beginning of the conversation?",
-          "question_ja": "会話の冒頭で、話者の一人は何をしていますか。",
-          "option_a": "Cleaning a few kitchen items",
-          "option_a_ja": "少数の台所用品を洗っている",
-          "option_b": "Preparing ingredients for cooking",
-          "option_b_ja": "料理の材料を準備している",
-          "option_c": "Organizing office paperwork",
-          "option_c_ja": "オフィスの書類を整理している",
-          "option_d": "Ordering new utensils online",
-          "option_d_ja": "オンラインで新しい調理器具を注文している",
+          "question": "What time frame does the speaker mention for cleaning up while waiting?",
+          "question_ja": "話者が待っている間に掃除にかかると述べた時間範囲はどれですか？",
+          "option_a": "15 to 20 minutes",
+          "option_a_ja": "15から20分",
+          "option_b": "30 minutes",
+          "option_b_ja": "30分",
+          "option_c": "45 minutes",
+          "option_c_ja": "45分",
+          "option_d": "1 hour",
+          "option_d_ja": "1時間",
           "answer": "A",
-          "explanation": "冒頭で「I think this is the first time I had to wash this little dishes. Like what do I have to wash? I mean, spatula. Not much.（こんなに洗う皿が少ないのは初めてかも。洗うものといえばヘラくらい）」と述べているため、台所用品を少し洗っている(A)が正解です。"
+          "explanation": "話者が「15, 15, 20 minutes sounds about right to me」と述べており、この時間範囲が掃除にかかると明確に示されている。他の選択肢は本文に記載されていない。"
         },
         {
           "id": "Q14-2",
-          "question": "What does the speaker ask permission to do?",
-          "question_ja": "話者は何をする許可を求めていますか。",
-          "option_a": "Buy additional cooking tools",
-          "option_a_ja": "追加の調理道具を購入すること",
-          "option_b": "Submit an application to join",
-          "option_b_ja": "加入するための書類を提出すること",
-          "option_c": "Invite viewers to the house",
-          "option_c_ja": "視聴者を家に招くこと",
-          "option_d": "Postpone a scheduled meeting",
-          "option_d_ja": "予定されていた会議を延期すること",
-          "answer": "B",
-          "explanation": "中盤で「could I have a side in and put in some paperwork for myself?（自分も仲間に入れてもらうために書類を提出してもいい？）」と質問していることから、(B)の「加入するための書類提出」が正解です。"
+          "question": "Why does the speaker say they don't need to submit paperwork?",
+          "question_ja": "話者が書類を提出しなくてよいと述べた理由は何か？",
+          "option_a": "They are already registered.",
+          "option_a_ja": "すでに登録されている。",
+          "option_b": "They forgot to bring the paperwork.",
+          "option_b_ja": "書類を持ってこなかった。",
+          "option_c": "The activity doesn't require paperwork.",
+          "option_c_ja": "この活動には書類が不要である。",
+          "option_d": "They were exempted by the staff.",
+          "option_d_ja": "スタッフによって免除された。",
+          "answer": "A",
+          "explanation": "話者が「You're already in. I'm in!」と述べており、すでに登録済みであることが示されている。他の選択肢は本文に記載されていない。"
         },
         {
           "id": "Q14-3",
-          "question": "What does the speaker say she will do next?",
-          "question_ja": "話者は次に何をすると言っていますか。",
-          "option_a": "Finish washing the dishes",
-          "option_a_ja": "皿洗いを終わらせる",
-          "option_b": "Fill out registration forms",
-          "option_b_ja": "登録用紙に記入する",
-          "option_c": "Phone a family member",
-          "option_c_ja": "家族に電話をかける",
-          "option_d": "Reply to chat comments",
-          "option_d_ja": "チャットのコメントに返信する",
-          "answer": "C",
-          "explanation": "参加が決まった直後に「I'm in! ... I gotta call my mom.（入れた！お母さんに電話しなきゃ）」と発言しているため、(C)の「家族に電話をかける」が正解です。"
+          "question": "How does the speaker describe their relationship with their chat group?",
+          "question_ja": "話者がチャットグループとの関係をどのように説明しているか？",
+          "option_a": "They are very supportive.",
+          "option_a_ja": "非常に支援的である。",
+          "option_b": "They were competitive and hostile in the past.",
+          "option_b_ja": "以前は競争的で敵対的だった。",
+          "option_c": "They rarely communicate.",
+          "option_c_ja": "ほとんどコミュニケーションしない。",
+          "option_d": "They are indifferent.",
+          "option_d_ja": "無関心である。",
+          "answer": "A",
+          "explanation": "話者が「my chat is very fantastic. They're always being very supportive.」と述べており、支援的であることが明確に示されている。他の選択肢は本文に記載されていない。"
         }
-      ]
+      ],
+      "text": "Speaker 1: Yeah, 15, 15, 20 minutes sounds about right to me. So we clean up while we're waiting for it to finish. I think this is the first time I had to wash this little dishes. Like what do I have to wash? I mean, spatula. Not much. Are you are you looking to expand your horror? Of course I am anyone and everyone is welcome. Just not chat though, right? Because chat stinks. No, not them. But can I can I could I could I've signed in and put in some paperwork for myself? You don't even need to put any paperwork. You're already in. I'm in! Oh my god, I'm in! Oh my god, mom? I gotta call my mom. Oh, look how jealous and angry they are. Oh, yes. Let's see them all, chat, see them all. Do you have like an encouraging relationship with your chatter? Do you kind of have it similar to mine where we're always just trying to like kill each other? Thankfully, my chat, my chat is very fantastic. They're always being very supportive. So that's what I'm used to.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 14,
+          "similarity": 0.558,
+          "old_chars": 651,
+          "new_chars": 953,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q14-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q14-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option B and C are too vague. While not explicitly stated, they are not *directly* contradicted by the text. A more definitive negative statement would strengthen the question."
+            ],
+            "recommended_fix": "Option B: They were told they didn't need paperwork. Option C: The paperwork is optional."
+          },
+          {
+            "id": "Q14-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option B is a bit misleading. While there's a hint of playful antagonism, it's not a description of a *past* relationship. It's more of a current dynamic.  The question could be improved by focusing on the *current* nature of the relationship."
+            ],
+            "recommended_fix": "Option B: They playfully tease and challenge each other."
+          }
+        ],
+        "summary": "全体的に問題の質は高い。特にQ14-1は完璧。Q14-2とQ14-3は選択肢の表現を少し修正することで、より厳密な問題に改善できる。"
+      }
     },
     {
       "chunk_index": 15,
       "start_sec": 978.7,
       "end_sec": 1040.5,
-      "script": "Do you have like an encouraging relationship with your chatter? Do you kind of have it similar to my where we're always just trying to like kill each other? Thankfully, my chat, my chat is very fantastic. They're always being very supportive. So that's, that's what I'm used to. I just find it funny how like, I see my chat in like a certain, like a certain way of behaving. And I was the exact same person in like another friend's chat who might be like used to like kinder, I'm encouraging chat community. And I see the exact same person going like, that's so true, Queen, you're so valid for that. You're doing amazing. It's okay. Don't give up. Try again. And the exact same person goes like, you dumbass. Do you not know how to read? What are you? 92? What is 1 plus 1? You dumb. What is 1 plus 1? I'm just like crying. But I'm just like, just tell me what it is. Like tell me where it is. Tell me what I need to do and where to go. Like in this game, for example, and it's like, well, read it. You ready? Read it.",
+      "script": "Speaker 1: I'm in! Oh my god, I'm in! Oh my god, mom? I gotta call my mom. Oh, look how jealous and angry they are. Oh, yes. Let's see them all, chat, see them all. Do you have like an encouraging relationship with your chatter? Do you kind of have it similar to mine where we're always just trying to like kill each other? Thankfully, my chat, my chat is very fantastic. They're always being very supportive. So that's what I'm used to. I just find it funny how I see my chat in a certain way of behaving. I was seeing the exact same person in another friend's chat who might be used to kinder, encouraging chat community. And I see the exact same person going like, that's so true, Queen. You're so valid for that. You're doing amazing. It's okay. Don't give up. Try it again. And the exact same person goes like, you dumbass. Do you not know how to read? What are you? 92? What is 1 plus 1? You dumb. What is 1 plus 1? I'm just like crying. But I'm just like, just tell me what it is. Like tell me where it is. Tell me what I need to do and where to go. Like in this game, for example. And it was like, well, read it. You ready? Read it.\nSpeaker 2: So do we want to start serving it up to you? Yeah. What do you usually serve this with by itself? Or if you're like a... Yeah, by itself. You can just get a little, a little plate, put on a little plate, and call it good. F1 for narissa, guys. You know that this model doesn't have enough one.",
       "questions": [
         {
           "id": "Q15-1",
-          "question": "What are the speakers mainly discussing?",
-          "question_ja": "話し手たちは主に何について話し合っていますか。",
-          "option_a": "How online viewers behave in chat communities",
-          "option_a_ja": "チャットコミュニティでのオンライン視聴者の振る舞い",
-          "option_b": "Technical issues during a live broadcast",
-          "option_b_ja": "ライブ配信中の技術的な問題",
-          "option_c": "Rules for participating in an online tournament",
-          "option_c_ja": "オンライン大会に参加するためのルール",
-          "option_d": "Strategies for completing a video game",
-          "option_d_ja": "ビデオゲームをクリアするための戦略",
+          "question": "What is the speaker's attitude toward their chat community?",
+          "question_ja": "話者のチャットコミュニティに対する態度はどれですか？",
+          "option_a": "They find it supportive and positive",
+          "option_a_ja": "彼らはそれを支援的でポジティブだと感じている",
+          "option_b": "They think it's overly competitive",
+          "option_b_ja": "彼らはそれが過度に競争的だと考えている",
+          "option_c": "They believe it's too casual for serious discussions",
+          "option_c_ja": "彼らはそれが真剣な議論にはあまりにもカジュアルだと考えている",
+          "option_d": "They feel it's too formal and distant",
+          "option_d_ja": "彼らはそれがあまりにも形式的で遠いと感じている",
           "answer": "A",
-          "explanation": "話し手たちは、自分たちの配信チャット（視聴者コミュニティ）との関係性や、同じ視聴者が配信者によって異なる態度を取ることについて話しています。したがって、Aが正解です。"
+          "explanation": "The speaker describes their chat community as 'very fantastic' and emphasizes that members are 'always being very supportive,' which directly reflects their positive and encouraging attitude toward the group."
         },
         {
           "id": "Q15-2",
-          "question": "According to the speaker, what is characteristic of her own chat?",
-          "question_ja": "話し手によると、自身のチャットの特徴は何ですか。",
-          "option_a": "It has strict moderation rules.",
-          "option_a_ja": "厳格なモデレーション（管理）ルールがある。",
-          "option_b": "It is consistently very supportive.",
-          "option_b_ja": "一貫して非常に協力的で応援してくれる。",
-          "option_c": "It consists mostly of new followers.",
-          "option_c_ja": "主に新規フォロワーで構成されている。",
-          "option_d": "It frequently gives gameplay advice.",
-          "option_d_ja": "頻繁にゲームプレイのアドバイスをくれる。",
+          "question": "What does the speaker illustrate with the example of the same person in different chats?",
+          "question_ja": "話者が異なるチャットで同じ人物の例を挙げた目的はどれですか？",
+          "option_a": "The different ways people behave in online communities",
+          "option_a_ja": "オンラインコミュニティで人々が異なる行動を取る",
+          "option_b": "The contrast between supportive and hostile behavior in chat communities",
+          "option_b_ja": "チャットコミュニティにおける支援的行動と敵対的行動の対比",
+          "option_c": "The need for better moderation in online games",
+          "option_c_ja": "オンラインゲームにおけるより良いモデレーションの必要性",
+          "option_d": "The difficulty of understanding game instructions",
+          "option_d_ja": "ゲームの指示を理解する難しさ",
           "answer": "B",
-          "explanation": "スクリプトで「Thankfully, my chat, my chat is very fantastic. They're always being very supportive.（ありがたいことに、私のチャットは素晴らしくて、いつもとても協力的で応援してくれます）」と述べられているため、Bが正解です。"
+          "explanation": "The speaker contrasts the same person's supportive behavior in their chat with the same person's harsh behavior in another chat, highlighting the difference in community culture and interaction styles."
         },
         {
           "id": "Q15-3",
-          "question": "What does the speaker find amusing about a particular viewer?",
-          "question_ja": "話し手はある特定の視聴者について何が面白いと感じていますか。",
-          "option_a": "The viewer plays the game better than the streamer.",
-          "option_a_ja": "その視聴者が配信者よりもゲームが上手なこと",
-          "option_b": "The viewer continuously asks basic math questions.",
-          "option_b_ja": "その視聴者が基本的な計算問題を質問し続けること",
-          "option_c": "The viewer acts differently depending on the stream.",
-          "option_c_ja": "その視聴者が配信によって異なる振る舞いをすること",
-          "option_d": "The viewer donated a large sum of money.",
-          "option_d_ja": "その視聴者が多額の投げ銭（寄付）をしたこと",
-          "answer": "C",
-          "explanation": "話し手は、友人の配信では「素晴らしいよ、諦めないで」と非常に優しく接している同一人物が、自分の配信では「字も読めないのか」などと辛口にからかってくる様子を「I just find it funny（面白い）」と述べています。したがって、Cが正解です。"
+          "question": "What does Speaker 2 suggest about serving the item mentioned?",
+          "question_ja": "話者2が述べた「提供方法」に関する提案はどれですか？",
+          "option_a": "It should be served with additional side dishes",
+          "option_a_ja": "追加のサイドディッシュと一緒に提供すべきだ",
+          "option_b": "It can be served on a small plate by itself",
+          "option_b_ja": "小さな皿に単品で提供できる",
+          "option_c": "It requires a specific tool for proper serving",
+          "option_c_ja": "適切な提供には特定のツールが必要だ",
+          "option_d": "It must be accompanied by a detailed explanation",
+          "option_d_ja": "詳細な説明とともに提供しなければならない",
+          "answer": "B",
+          "explanation": "Speaker 2 mentions that the item can be served 'by itself' on 'a little plate,' indicating that it's suitable for simple, individual serving without additional accompaniments."
         }
-      ]
+      ],
+      "text": "Speaker 1: I'm in! Oh my god, I'm in! Oh my god, mom? I gotta call my mom. Oh, look how jealous and angry they are. Oh, yes. Let's see them all, chat, see them all. Do you have like an encouraging relationship with your chatter? Do you kind of have it similar to mine where we're always just trying to like kill each other? Thankfully, my chat, my chat is very fantastic. They're always being very supportive. So that's what I'm used to. I just find it funny how I see my chat in a certain way of behaving. I was seeing the exact same person in another friend's chat who might be used to kinder, encouraging chat community. And I see the exact same person going like, that's so true, Queen. You're so valid for that. You're doing amazing. It's okay. Don't give up. Try it again. And the exact same person goes like, you dumbass. Do you not know how to read? What are you? 92? What is 1 plus 1? You dumb. What is 1 plus 1? I'm just like crying. But I'm just like, just tell me what it is. Like tell me where it is. Tell me what I need to do and where to go. Like in this game, for example. And it was like, well, read it. You ready? Read it.\nSpeaker 2: So do we want to start serving it up to you? Yeah. What do you usually serve this with by itself? Or if you're like a... Yeah, by itself. You can just get a little, a little plate, put on a little plate, and call it good. F1 for narissa, guys. You know that this model doesn't have enough one.",
+      "speaker_diarization": {
+        "enabled": true,
+        "provider": "WhisperX/pyannote",
+        "speaker_count": 2,
+        "validation": {
+          "attempt": "指定人数=2",
+          "score": 70,
+          "issues": [],
+          "speaker_count": 2,
+          "unlabeled_segments": 0,
+          "segment_count": 59,
+          "short_turns": 76
+        },
+        "attempts": [
+          {
+            "attempt": "指定人数=2",
+            "score": 70,
+            "issues": [],
+            "speaker_count": 2,
+            "unlabeled_segments": 0,
+            "segment_count": 59,
+            "short_turns": 76
+          }
+        ],
+        "needs_manual_review": false,
+        "transcript_comparison": {
+          "chunk_index": 15,
+          "similarity": 0.728,
+          "old_chars": 1019,
+          "new_chars": 1423,
+          "issues": []
+        }
+      },
+      "quality_review": {
+        "overall_pass": true,
+        "overall_score": 98,
+        "questions": [
+          {
+            "id": "Q15-1",
+            "score": 100,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q15-2",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option C is slightly misleading. While the example *touches* on the need for moderation, the primary purpose is to illustrate contrasting behaviors, not directly address moderation."
+            ],
+            "recommended_fix": "Rephrase Option C to be more directly related to the contrasting behaviors. For example: 'It highlights how behavior can vary significantly between different online communities.'"
+          },
+          {
+            "id": "Q15-3",
+            "score": 95,
+            "pass": true,
+            "issues": [
+              "Option A is a bit too strong. While side dishes *could* be served with it, the speaker's suggestion is more about simplicity. The wording implies a stronger recommendation than is present in the text."
+            ],
+            "recommended_fix": "Soften Option A to reflect the possibility rather than a suggestion. For example: 'It could potentially be served with additional side dishes.'"
+          }
+        ],
+        "summary": "監査結果: 全体的に高品質。Q15-2とQ15-3は、選択肢の表現を若干修正することで、より正確な問題に改善できる。"
+      }
     }
   ],
-  "revision": 2,
-  "updated_at": "2026-10-10 13:02:27"
+  "revision": 3,
+  "updated_at": "2026-10-10 21:10:47",
+  "processing_audit": {
+    "timestamp": "2026-10-10T21:09:30",
+    "backup_path": "C:\\Users\\tombo\\Desktop\\App_maker\\App_Data\\app_full_They_Said_Im_a_Walmart_Version_of_Her.json.backup_20261010_144528.json",
+    "requested_speaker_count": 2,
+    "speaker_quality_reports": [
+      {
+        "chunk_index": 1,
+        "issues": [
+          "既存スクリプトとの一致率が低い"
+        ]
+      },
+      {
+        "chunk_index": 2,
+        "issues": []
+      },
+      {
+        "chunk_index": 3,
+        "issues": [
+          "既存スクリプトとの一致率が低い"
+        ]
+      },
+      {
+        "chunk_index": 4,
+        "issues": [
+          "既存スクリプトとの一致率が低い"
+        ]
+      },
+      {
+        "chunk_index": 6,
+        "issues": [
+          "既存スクリプトとの一致率が低い"
+        ]
+      },
+      {
+        "chunk_index": 7,
+        "issues": []
+      },
+      {
+        "chunk_index": 8,
+        "issues": []
+      },
+      {
+        "chunk_index": 10,
+        "issues": []
+      },
+      {
+        "chunk_index": 12,
+        "issues": [
+          "既存スクリプトとの一致率が低い"
+        ]
+      },
+      {
+        "chunk_index": 14,
+        "issues": []
+      },
+      {
+        "chunk_index": 15,
+        "issues": []
+      }
+    ],
+    "integrity_issue_count": 5,
+    "integrity_issues": [
+      "Chunk 1: 文字起こし照合要確認 (既存スクリプトとの一致率が低い)",
+      "Chunk 3: 文字起こし照合要確認 (既存スクリプトとの一致率が低い)",
+      "Chunk 4: 文字起こし照合要確認 (既存スクリプトとの一致率が低い)",
+      "Chunk 6: 文字起こし照合要確認 (既存スクリプトとの一致率が低い)",
+      "Chunk 12: 文字起こし照合要確認 (既存スクリプトとの一致率が低い)"
+    ],
+    "note": "構造検査は話者の本人性や完全な正確性を保証しません。要確認は音声で確認してください。"
+  }
 }
