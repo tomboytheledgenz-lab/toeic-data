@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 03:43:31",
+  "updated_at": "2026-10-10 13:02:29",
   "videos": [
     {
       "channel_name": "OniGiri",
@@ -7,15 +7,19 @@
       "url": "https://youtu.be/Um1f8Ux9he0?si=YD5XPdJLKfDFKPz6",
       "total_chunks": 11,
       "created_at": "2026-10-04 16:23:17",
-      "updated_at": "2026-10-07 09:44:54",
-      "revision": 1,
-      "content_sha": "8062bde796b965275dff754f2ef20026080cff77",
+      "updated_at": "2026-10-10 13:02:27",
+      "revision": 2,
+      "content_sha": "33a5a975dfa01472f9798a3ef956d147bbaba2d1",
       "path": "toeic/OniGiri/app_full_They_Said_Im_a_Walmart_Version_of_Her.json",
       "data_url": "https://raw.githubusercontent.com/tomboytheledgenz-lab/toeic-data/main/toeic/OniGiri/app_full_They_Said_Im_a_Walmart_Version_of_Her.json",
       "update_history": [
         {
           "revision": 1,
           "updated_at": "2026-10-07 09:44:54"
+        },
+        {
+          "revision": 2,
+          "updated_at": "2026-10-10 13:02:27"
         }
       ]
     },
