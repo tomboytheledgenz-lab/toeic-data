@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 12:22:52",
+  "updated_at": "2026-10-11 19:55:17",
   "videos": [
     {
       "channel_name": "OniGiri",
@@ -50,6 +50,24 @@
         {
           "revision": 3,
           "updated_at": "2026-10-11 12:22:49"
+        }
+      ]
+    },
+    {
+      "channel_name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+      "video_title": "【Zatsudan】Good morning fish, it is now 2026",
+      "url": "https://www.youtube.com/live/Bw_9FVOEEO8?si=yhJvgHYjt5snVUax",
+      "total_chunks": 116,
+      "created_at": "2026-10-11 19:55:14",
+      "updated_at": "2026-10-11 19:55:14",
+      "revision": 1,
+      "content_sha": "28a4c462dceaeb57a6367c27d55e39adcbb44482",
+      "path": "toeic/Josuiji_Shinri_Ch_HOLOSTARS-EN/app_full_【Zatsudan】Good_morning_fish,_it_is_now_2026.json",
+      "data_url": "https://raw.githubusercontent.com/tomboytheledgenz-lab/toeic-data/main/toeic/Josuiji_Shinri_Ch_HOLOSTARS-EN/app_full_%E3%80%90Zatsudan%E3%80%91Good_morning_fish%2C_it_is_now_2026.json",
+      "update_history": [
+        {
+          "revision": 1,
+          "updated_at": "2026-10-11 19:55:14"
         }
       ]
     }
