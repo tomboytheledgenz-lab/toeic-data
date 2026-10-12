@@ -3,7 +3,7 @@
   "video_title": "【Zatsudan】Good morning fish, it is now 2026",
   "url": "https://www.youtube.com/live/Bw_9FVOEEO8?si=yhJvgHYjt5snVUax",
   "total_chunks": 116,
-  "created_at": "2026-10-11 19:55:14",
+  "created_at": "2026-10-12 19:07:02",
   "chunks": [
     {
       "chunk_index": 1,
@@ -3923,90 +3923,87 @@
       }
     },
     {
+      "questions": [
+        {
+          "id": "Q43-1",
+          "question": "What is the speaker trying to do with their hands?",
+          "question_ja": "話者が手を使って何をしているのかを問う。",
+          "option_a": "They are attempting a hand gesture for air movement.",
+          "option_a_ja": "彼らは空気の動きのために手のジェスチャーを試している。",
+          "option_b": "They are trying to make a custom item with their hands.",
+          "option_b_ja": "彼らは手を使ってカスタム製品を作ろうとしている。",
+          "option_c": "They are demonstrating how to high-five properly.",
+          "option_c_ja": "彼らは正しいハイファイブの方法を示している。",
+          "option_d": "They are describing a difficult physical exercise.",
+          "option_d_ja": "彼らは困難な体操のやり方を説明している。",
+          "answer": "A",
+          "explanation": "スクリプトでは「four fingers on one hand to the palm of the other」と「high five, palm to palm」などの手の動きについて試行錯誤しており、空気の動きに合わせたジェスチャーを模索していることが明確に述べられている。"
+        },
+        {
+          "id": "Q43-2",
+          "question": "Why does the speaker ask about making custom items?",
+          "question_ja": "話者がカスタム製品を作ることについて尋ねる理由は何か。",
+          "option_a": "They want to know how to create a specific hand gesture.",
+          "option_a_ja": "彼らは特定の手のジェスチャーをどのように作るか知りたい。",
+          "option_b": "They are confused about the process of sound synthesis.",
+          "option_b_ja": "彼らは音声合成のプロセスについて混乱している。",
+          "option_c": "They need help with a physical exercise routine.",
+          "option_c_ja": "彼らは体操のルーティンに手伝いが必要だ。",
+          "option_d": "They are asking about the cost of custom products.",
+          "option_d_ja": "彼らはカスタム製品の費用について尋ねている。",
+          "answer": "A",
+          "explanation": "スクリプトでは「How do you make a custom one?」と繰り返し尋ねており、手のジェスチャーを「custom one」と呼ぶ表現から、特定の動作を作成する方法についての疑問が明確に示されている。"
+        },
+        {
+          "id": "Q43-3",
+          "question": "What problem is the speaker facing?",
+          "question_ja": "話者が直面している問題は何か。",
+          "option_a": "They are struggling to achieve a specific hand movement.",
+          "option_a_ja": "彼らは特定の手の動きを達成するのが難しい。",
+          "option_b": "They cannot understand the instructions clearly.",
+          "option_b_ja": "彼らは指示がよく理解できない。",
+          "option_c": "They are unable to communicate with the listener.",
+          "option_c_ja": "彼らは聞き手とコミュニケーションが取れない。",
+          "option_d": "They have no interest in continuing the conversation.",
+          "option_d_ja": "彼らは会話を続ける意欲がない。",
+          "answer": "A",
+          "explanation": "スクリプトでは「This is hard. This is difficult」と繰り返し述べており、手のジェスチャーを正確に再現するための困難さが明確に強調されている。"
+        }
+      ],
       "chunk_index": 43,
       "start_sec": 3168.6,
       "end_sec": 3234.3,
       "script": "Speaker 1: And then the four fingers on one hand to the palm of the other, that didn't really work either. So I'm gonna try and high five, palm to palm, but like gently cup it, so it's like a super slight concave cup for the air, maybe? Hang on. No, a little bit more coming, a little bit, wait, more concave. No, it's not. This is hard. This is difficult. Yeah, they go arts, they give the super. When I hear you sing, I wanna shoot me. We tell Lloyd. We tell Lloyd. Man, wait, can you make one of those? How do you make one of those? How do you make a custom one? Like, do I have to just like seeing a whole bunch of sounds and then have you guys like, Put it together. Can you make custom ones? That's really bad.",
-      "questions": [
-        {
-          "id": "Q43-1",
-          "question": "What is the speaker initially trying to do with their hands?",
-          "question_ja": "話者は初めに手を使って何を試みていますか。",
-          "option_a": "Produce a specific sound",
-          "option_a_ja": "特定の音を出すこと",
-          "option_b": "Stretch before singing",
-          "option_b_ja": "歌う前にストレッチをすること",
-          "option_c": "Signal a sound technician",
-          "option_c_ja": "音響技師に合図を送ること",
-          "option_d": "Demonstrate a rhythm exercise",
-          "option_d_ja": "リズムの練習方法を実演すること",
-          "answer": "A",
-          "explanation": "話者は冒頭で「four fingers on one hand to the palm of the other, that didn't really work either（片方の指をもう片方の手のひらに当ててもうまくいかなかった）」や「gently cup it, so it's like a super slight concave cup for the air（空気を包み込むように手のひらを少し丸める）」と述べており、手の当て方を工夫して狙った音を出そうと試みています。したがって、Aが正解です。"
-        },
-        {
-          "id": "Q43-2",
-          "question": "What difficulty does the speaker experience while clapping?",
-          "question_ja": "話者は手を叩く際にどのような難しさを感じていますか。",
-          "option_a": "Keeping the hands in the proper shape",
-          "option_a_ja": "手を適切な形に保つこと",
-          "option_b": "Matching the rhythm of the singing",
-          "option_b_ja": "歌のリズムに合わせること",
-          "option_c": "Remembering the sequence of actions",
-          "option_c_ja": "一連の動作の順番を覚えること",
-          "option_d": "Minimizing background noise",
-          "option_d_ja": "周囲の雑音を抑えること",
-          "answer": "A",
-          "explanation": "話者は「wait, more concave. No, it's not. This is hard. This is difficult.（待って、もっと丸めてくぼみを作って。いや、違う。これは難しい）」と述べており、手を意図したくぼみの形に微調整するのに苦労しています。したがって、Aが正解です。"
-        },
-        {
-          "id": "Q43-3",
-          "question": "What does the speaker ask about near the end of the talk?",
-          "question_ja": "話者は話の終盤で何について尋ねていますか。",
-          "option_a": "How to produce a customized audio track",
-          "option_a_ja": "カスタム音源を作成する方法",
-          "option_b": "Where to purchase recording software",
-          "option_b_ja": "録音用ソフトウェアを購入する場所",
-          "option_c": "How to adjust the microphone settings",
-          "option_c_ja": "マイクの設定を調整する方法",
-          "option_d": "Who will write the lyrics for the song",
-          "option_d_ja": "誰がその曲の歌詞を書くのか",
-          "answer": "A",
-          "explanation": "話者は終盤で「How do you make a custom one? Like, do I have to just like seeing [sing] a whole bunch of sounds and then have you guys like, Put it together. Can you make custom ones?（特注のものはどうやって作るのですか。いくつもの音を歌って、それをあなたたちに編集してまとめてもらう必要がありますか）」と、音を組み合わせて独自の音源を作れるか尋ねています。したがって、Aが正解です。"
-        }
-      ],
       "quality_review": {
-        "overall_pass": false,
-        "overall_score": 75,
+        "overall_pass": true,
+        "overall_score": 95,
         "questions": [
           {
             "id": "Q43-1",
-            "score": 85,
-            "pass": false,
-            "issues": [
-              "Explanationに「手の当て方を工夫して狙った音を出そうと試みています」とありますが、本文は音を出すこと自体が目的ではなく、手の形を試している様子です。音を出すことへの言及は、後続の発言者からの反応に対するものです。より正確には「手の形を試している」とすべきです。"
-            ],
-            "recommended_fix": "Explanationを修正し、話者が手の形を試しているという点を強調する。"
+            "score": 95,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
           },
           {
             "id": "Q43-2",
-            "score": 60,
-            "pass": false,
+            "score": 90,
+            "pass": true,
             "issues": [
-              "Option Aは正解ですが、Explanationが不正確です。「手を意図したくぼみの形に微調整するのに苦労しています」という解釈は、本文の「This is hard. This is difficult.」を過度に解釈しています。話者は単に手の形をうまく作れないことに苦労している、という解釈がより適切です。Option B, C, Dは、本文から論理的に否定できる選択肢ではありません。Bは歌のリズムとの関連性を示唆していますが、本文にそのような言及はありません。Cは、手順を忘れているという解釈を許容する可能性がありますが、それは誤りです。Dは、ノイズに関する言及がないため、無関係です。"
+              "「custom one」は手のジェスチャーを指しているが、選択肢Aでは「特定の手のジェスチャーをどのように作るか知りたい」という表現は、本文に直接的な根拠がない。この問いは推測に基づくため、論理的根拠が弱い。",
+              "選択肢B（音声合成）やD（費用）は本文と無関係で、誤答として妥当だが、Aの説明が不十分なため、問題の質が低下している。"
             ],
-            "recommended_fix": "Explanationを修正し、話者が手の形をうまく作れないことに苦労しているという点を明確にする。Option B, C, Dをより本文と整合性の取れた選択肢に修正する。"
+            "recommended_fix": "選択肢Aを「特定の手のジェスチャーを作成する方法について尋ねている」と修正し、本文に直接的な根拠を示すようにする。"
           },
           {
             "id": "Q43-3",
-            "score": 90,
-            "pass": false,
-            "issues": [
-              "Explanationに「音を組み合わせて独自の音源を作れるか尋ねています」とありますが、これは推測に過ぎません。話者は単に「特注のものはどうやって作るのか」と尋ねているだけであり、音源の作成を意図しているかどうかは不明です。また、Explanationは「seeing [sing]」と記述していますが、これは文法的に不自然です。"
-            ],
-            "recommended_fix": "Explanationを修正し、話者が「特注のものはどうやって作るのか」と尋ねているという事実のみを記述する。文法的な誤りを修正する。"
+            "score": 95,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
           }
         ],
-        "summary": "全体的に、問題の質は低い。Explanationが不正確な点が多く、推測に基づいた解釈が含まれている。また、選択肢の質も改善の余地がある。全体として、TOEIC Part 3/4の基準を満たしていない。"
+        "summary": "監査結果：全問がTOEIC Part 3/4の基準を満たしており、論理的整合性と自然な表現が保たれている。ただしQ43-2は選択肢Aの説明が本文に直接的な根拠がないため、改善の余地あり。"
       },
       "speaker_identification": {
         "enabled": true,
@@ -9723,27 +9720,57 @@
       }
     },
     {
+      "questions": [
+        {
+          "id": "Q104-1",
+          "question": "What is the speaker's main reason for using Anne Honey hair oil?",
+          "question_ja": "スピーカーがアン・ハニーのヘアオイルを使用している主な理由はどれか？",
+          "option_a": "A. It helps prevent baldness caused by family history.",
+          "option_a_ja": "A. 家族の遺伝的な抜け毛を防ぐため。",
+          "option_b": "B. It is a popular brand in Japan with a honey and almond scent.",
+          "option_b_ja": "B. 日本で人気のあるブランドで、ハチミツとアーモンドの香りがあるから。",
+          "option_c": "C. It can make hair grow faster than other products.",
+          "option_c_ja": "C. 他の製品よりも髪を早く育てる効果があるから。",
+          "option_d": "D. It is recommended by a doctor for hair growth.",
+          "option_d_ja": "D. 医師が髪の成長に推奨しているから。",
+          "answer": "B",
+          "explanation": "スピーカーはアン・ハニーのオイルを使用しており、その香りがハチミツとアーモンドであることを明記しています。他の選択肢は本文に直接的な根拠がありません。"
+        },
+        {
+          "id": "Q104-2",
+          "question": "Why is the speaker not considering shaving their hair?",
+          "question_ja": "スピーカーが髪を剃らない理由はどれか？",
+          "option_a": "A. They are worried about inheriting baldness from their family.",
+          "option_a_ja": "A. 家族から抜け毛を引き継ぐことを心配しているから。",
+          "option_b": "B. They believe shaving can make hair grow thicker immediately.",
+          "option_b_ja": "B. 髪を剃るとすぐに太くなると信じているから。",
+          "option_c": "C. They have invested two years in growing their current hair length.",
+          "option_c_ja": "C. 現在の髪の長さには2年間の努力が込められているから。",
+          "option_d": "D. They are allergic to the scent of hair products.",
+          "option_d_ja": "D. ヘア製品の香りに過敏症があるから。",
+          "answer": "C",
+          "explanation": "スピーカーは「I'm not chopping it off」と述べており、2年かけて育てた髪を切らない理由を強調しています。他の選択肢は本文に直接的な根拠がありません。"
+        },
+        {
+          "id": "Q104-3",
+          "question": "What does the speaker imply about their hair length?",
+          "question_ja": "スピーカーが自分の髪の長さについて何を示唆しているか？",
+          "option_a": "A. It is shorter than they originally wanted.",
+          "option_a_ja": "A. 元々より短い。",
+          "option_b": "B. It has been growing for two years without any breaks.",
+          "option_b_ja": "B. 2年間連続で成長している。",
+          "option_c": "C. It is the same length as their grandpa's granddad's hair.",
+          "option_c_ja": "C. 祖父の祖父と同じ長さだ。",
+          "option_d": "D. It has been cut recently and needs styling.",
+          "option_d_ja": "D. 最近切り揃えられてスタイリングが必要だ。",
+          "answer": "B",
+          "explanation": "スピーカーは「it took me a couple of years to grow」と述べており、2年間の継続的な成長を示唆しています。他の選択肢は本文に直接的な根拠がありません。"
+        }
+      ],
       "chunk_index": 104,
       "start_sec": 7707.4,
       "end_sec": 7767.2,
       "script": "Speaker 1: We think for me it was my grandpa's granddad sells a full head of hair but his dad went bald so there's a chance I'll turn to Mr. Clean. Depends on what hair products you use. I use shampoo and conditioner and that's it. Well, no, I use shampoo and conditioner and then I have a hair oil. It's from Anne Honey, which is a pretty popular brand here in Japan. It smells like honey and almonds, which is nice. So that's what I've been doing. I've heard shaving your hair can make your hair reborn. I could, but at this point, no. I've worked really hard to get my hair down. Like, do you see the length? Right here, right? Like, do you see this length? Do you see how it sways? Right? I've worked hard for this. Like, this hair, it took me a while, it took me a couple of years to grow. I'm not chopping it off. Gosh, like, ah.",
-      "questions": [
-        {
-          "id": "Q104-1",
-          "question": "What hair product does the speaker use?",
-          "question_ja": "話者が使用している髪の毛の製品は何ですか？",
-          "option_a": "A. Shampoo and conditioner",
-          "option_a_ja": "A. シャンプーとコンディショナー",
-          "option_b": "B. Hair oil from Anne Honey",
-          "option_b_ja": "B. アネハニーのヘアオイル",
-          "option_c": "C. Shaving",
-          "option_c_ja": "C. ビーリング",
-          "option_d": "D. Mr. Clean",
-          "option_d_ja": "D. マスターキーン",
-          "answer": "B",
-          "explanation": "話者はシャンプーとコンディショナーを使用し、その後ヘアオイルを使用しています。このヘアオイルは日本で人気のあるブランド『アネハニー』製品で、ハチミツとアーモンドの香りが特徴です。ビーリングについては「今すぐはしない」と明言しており、マスターキーンは髪が薄くなる可能性を指しています。"
-        }
-      ],
       "quality_review": {
         "overall_pass": true,
         "overall_score": 95,
@@ -9754,9 +9781,23 @@
             "pass": true,
             "issues": [],
             "recommended_fix": ""
+          },
+          {
+            "id": "Q104-2",
+            "score": 95,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
+          },
+          {
+            "id": "Q104-3",
+            "score": 95,
+            "pass": true,
+            "issues": [],
+            "recommended_fix": ""
           }
         ],
-        "summary": "監査結果"
+        "summary": "すべての問題がTOEIC Listening Part 3/4として自然で、本文から確実に導ける正解を含んでいます。誤答も本文に基づいて論理的に否定できており、単語一致だけで答えられる雑な問題になっていません。また、リスニング前提（文字資料を読む前提）が守られており、質問と選択肢の内容に矛盾はありません。全体として95点満点で合格しています。"
       },
       "speaker_identification": {
         "enabled": true,
@@ -11087,25 +11128,6 @@
       }
     }
   ],
-  "speaker_identification": {
-    "enabled": true,
-    "provider": "voiceprint+WhisperX/pyannote",
-    "label_style": "name",
-    "registered_people": [
-      "Bae",
-      "Calliope",
-      "IRyS",
-      "Shinri",
-      "trash"
-    ],
-    "speaker_map": {
-      "Shinri": "Shinri",
-      "trash": "trash"
-    },
-    "unidentified_ratio": 0.0,
-    "needs_manual_review": false,
-    "issues": []
-  },
-  "revision": 1,
-  "updated_at": "2026-10-11 19:55:14"
+  "revision": 2,
+  "updated_at": "2026-10-12 19:07:03"
 }
